@@ -1,0 +1,1380 @@
+"","book","chapter","character","word_count"
+"1","New Spring","Ch1: The Hook","Lan Mandragoran",5677
+"2","New Spring","Ch2: A Wish Fulfilled","Moiraine Damodred",4949
+"3","New Spring","Ch3: Practice","Moiraine Damodred",8708
+"4","New Spring","Ch4: Leaving the Tower","Moiraine Damodred",6071
+"5","New Spring","Ch5: The Human Heart","Moiraine Damodred",7958
+"6","New Spring","Ch6: Surprises","Moiraine Damodred",5466
+"7","New Spring","Ch7: The Itch","Moiraine Damodred",3302
+"8","New Spring","Ch8: Shreds of Serenity","Moiraine Damodred",4266
+"9","New Spring","Ch9: It Begins","Moiraine Damodred",4876
+"10","New Spring","Ch10: It Finishes","Moiraine Damodred",2570
+"11","New Spring","Ch11: Just Before Dawn","Moiraine Damodred",3299
+"12","New Spring","Ch12: Entering Home","Moiraine Damodred",3475
+"13","New Spring","Ch12: Entering Home","Siuan Sanche",1338
+"14","New Spring","Ch12: Entering Home","Lan Mandragoran",633
+"15","New Spring","Ch13: Business in the City","Moiraine Damodred",3733
+"16","New Spring","Ch14: Changes","Moiraine Damodred",6544
+"17","New Spring","Ch15: Into Canluum","Lan Mandragoran",2804
+"18","New Spring","Ch16: The Deeps","Lan Mandragoran",4304
+"19","New Spring","Ch17: An Arrival","Moiraine Damodred",5127
+"20","New Spring","Ch18: A Narrow Passage","Moiraine Damodred",3743
+"21","New Spring","Ch19: Pond Water","Moiraine Damodred",3726
+"22","New Spring","Ch20: Breakfast in Manala","Lan Mandragoran",2895
+"23","New Spring","Ch21: Some Tricks of the Power","Lan Mandragoran",1809
+"24","New Spring","Ch21: Some Tricks of the Power","Moiraine Damodred",2504
+"25","New Spring","Ch22: Keeping Custom","Lan Mandragoran",5116
+"26","New Spring","Ch23: The Evening Star","Moiraine Damodred",3514
+"27","New Spring","Ch24: Making Use of Invisibility","Moiraine Damodred",2902
+"28","New Spring","Ch25: An Answer","Moiraine Damodred",4507
+"29","New Spring","Ch26: When to Surrender","Lan Mandragoran",1119
+"30","New Spring","Ch26: When to Surrender","Moiraine Damodred",2882
+"31","New Spring","Epilogue","Moiraine Damodred",2035
+"32","The Eye of the World","Prologue: Dragonmount","Lews Therin Telamon",2362
+"33","The Eye of the World","Prologue: Dragonmount","Quote",254
+"34","The Eye of the World","Prologue: Ravens","Egwene al'Vere",10044
+"35","The Eye of the World","Ch1: An Empty Road","Rand al'Thor",7164
+"36","The Eye of the World","Ch2: Strangers","Rand al'Thor",4956
+"37","The Eye of the World","Ch3: The Peddler","Rand al'Thor",5260
+"38","The Eye of the World","Ch4: The Gleeman","Rand al'Thor",5965
+"39","The Eye of the World","Ch5: Winternight","Rand al'Thor",7123
+"40","The Eye of the World","Ch6: The Westwood","Rand al'Thor",3411
+"41","The Eye of the World","Ch7: Out of the Woods","Rand al'Thor",5682
+"42","The Eye of the World","Ch8: A Place of Safety","Rand al'Thor",5934
+"43","The Eye of the World","Ch9: Tellings of the Wheel","Rand al'Thor",6933
+"44","The Eye of the World","Ch10: Leavetaking","Rand al'Thor",4048
+"45","The Eye of the World","Ch11: The Road to Taren Ferry","Rand al'Thor",3567
+"46","The Eye of the World","Ch12: Across the Taren","Rand al'Thor",5255
+"47","The Eye of the World","Ch13: Choices","Rand al'Thor",7308
+"48","The Eye of the World","Ch14: The Stag and Lion","Rand al'Thor",5890
+"49","The Eye of the World","Ch15: Strangers and Friends","Rand al'Thor",9061
+"50","The Eye of the World","Ch16: The Wisdom","Rand al'Thor",4246
+"51","The Eye of the World","Ch17: Watchers and Hunters","Rand al'Thor",6565
+"52","The Eye of the World","Ch18: The Caemlyn Road","Rand al'Thor",5529
+"53","The Eye of the World","Ch19: Shadow's Waiting","Rand al'Thor",7094
+"54","The Eye of the World","Ch20: Dust on the Wind","Rand al'Thor",2177
+"55","The Eye of the World","Ch20: Dust on the Wind","Perrin Aybara",1469
+"56","The Eye of the World","Ch20: Dust on the Wind","Rand al'Thor",3977
+"57","The Eye of the World","Ch21: Listen to the Wind","Nynaeve al'Meara",5127
+"58","The Eye of the World","Ch22: A Path Chosen","Perrin Aybara",2184
+"59","The Eye of the World","Ch23: Wolfbrother","Perrin Aybara",5822
+"60","The Eye of the World","Ch24: Flight Down the Arinelle","Rand al'Thor",5334
+"61","The Eye of the World","Ch25: The Traveling People","Perrin Aybara",6144
+"62","The Eye of the World","Ch26: Whitebridge","Rand al'Thor",8979
+"63","The Eye of the World","Ch27: Shelter From the Storm","Perrin Aybara",4918
+"64","The Eye of the World","Ch28: Footprints in the Air","Nynaeve al'Meara",3163
+"65","The Eye of the World","Ch29: Eyes Without Pity","Perrin Aybara",6184
+"66","The Eye of the World","Ch30: Children of Shadow","Perrin Aybara",6407
+"67","The Eye of the World","Ch31: Play for Your Supper","Rand al'Thor",4545
+"68","The Eye of the World","Ch32: Four Kings in Shadow","Rand al'Thor",7977
+"69","The Eye of the World","Ch33: The Dark Waits","Rand al'Thor",10410
+"70","The Eye of the World","Ch34: The Last Village","Rand al'Thor",5931
+"71","The Eye of the World","Ch35: Caemlyn","Rand al'Thor",5354
+"72","The Eye of the World","Ch36: Web of the Pattern","Rand al'Thor",5726
+"73","The Eye of the World","Ch37: The Long Chase","Nynaeve al'Meara",3239
+"74","The Eye of the World","Ch38: Rescue","Perrin Aybara",5934
+"75","The Eye of the World","Ch39: Weaving of the Web","Rand al'Thor",4472
+"76","The Eye of the World","Ch40: The Web Tightens","Rand al'Thor",9523
+"77","The Eye of the World","Ch41: Old Friends and New Threats","Rand al'Thor",5812
+"78","The Eye of the World","Ch42: Remembrance of Dreams","Rand al'Thor",4720
+"79","The Eye of the World","Ch43: Decisions and Apparitions","Rand al'Thor",4900
+"80","The Eye of the World","Ch44: The Dark Along the Ways","Rand al'Thor",5305
+"81","The Eye of the World","Ch45: What Follows in Shadow","Rand al'Thor",5563
+"82","The Eye of the World","Ch46: Fal Dara","Rand al'Thor",6748
+"83","The Eye of the World","Ch47: More Tales of the Wheel","Rand al'Thor",5169
+"84","The Eye of the World","Ch48: The Blight","Rand al'Thor",4586
+"85","The Eye of the World","Ch49: The Dark One Stirs","Rand al'Thor",3478
+"86","The Eye of the World","Ch50: Meetings at the Eye","Rand al'Thor",4544
+"87","The Eye of the World","Ch51: Against the Shadow","Rand al'Thor",3513
+"88","The Eye of the World","Ch52: Neither Beginning Nor End","Rand al'Thor",3878
+"89","The Eye of the World","Ch53: The Wheel Turns","Rand al'Thor",3204
+"90","The Eye of the World","Ch53: The Wheel Turns","Moiraine Damodred",124
+"91","The Great Hunt","Prologue: In the Shadow","Quote",207
+"92","The Great Hunt","Prologue: In the Shadow","Jaichim Carridin",5313
+"93","The Great Hunt","Ch1: The Flame of Tar Valon","Rand al'Thor",4202
+"94","The Great Hunt","Ch2: The Welcome","Rand al'Thor",4551
+"95","The Great Hunt","Ch3: Friends And Enemies","Rand al'Thor",8430
+"96","The Great Hunt","Ch4: Summoned","Moiraine Damodred",6437
+"97","The Great Hunt","Ch5: The Shadow in Shienar","Moiraine Damodred",3869
+"98","The Great Hunt","Ch5: The Shadow in Shienar","Geofram Bornhald",1446
+"99","The Great Hunt","Ch5: The Shadow in Shienar","Liandrin",2222
+"100","The Great Hunt","Ch5: The Shadow in Shienar","Padan Fain",171
+"101","The Great Hunt","Ch6: Dark Prophecy","Rand al'Thor",7265
+"102","The Great Hunt","Ch7: Blood Calls Blood","Moiraine Damodred",3558
+"103","The Great Hunt","Ch7: Blood Calls Blood","Perrin Aybara",1191
+"104","The Great Hunt","Ch7: Blood Calls Blood","Rand al'Thor",2174
+"105","The Great Hunt","Ch8: The Dragon Reborn","Rand al'Thor",4591
+"106","The Great Hunt","Ch8: The Dragon Reborn","Moiraine Damodred",156
+"107","The Great Hunt","Ch8: The Dragon Reborn","Nynaeve al'Meara",2510
+"108","The Great Hunt","Ch8: The Dragon Reborn","Egwene al'Vere",2312
+"109","The Great Hunt","Ch9: Leavetakings","Rand al'Thor",4102
+"110","The Great Hunt","Ch9: Leavetakings","Bayle Domon",4052
+"111","The Great Hunt","Ch10: The Hunt Begins","Rand al'Thor",8585
+"112","The Great Hunt","Ch11: Glimmers of the Pattern","Rand al'Thor",3407
+"113","The Great Hunt","Ch11: Glimmers of the Pattern","Padan Fain",1127
+"114","The Great Hunt","Ch12: Woven in the Pattern","Egwene al'Vere",5898
+"115","The Great Hunt","Ch13: From Stone to Stone","Rand al'Thor",3284
+"116","The Great Hunt","Ch14: Wolf brother","Perrin Aybara",3467
+"117","The Great Hunt","Ch15: Kinslayer","Rand al'Thor",4728
+"118","The Great Hunt","Ch16: In the Mirror of Darkness","Rand al'Thor",6407
+"119","The Great Hunt","Ch17: Choices","Rand al'Thor",3111
+"120","The Great Hunt","Ch18: To the White Tower","Egwene al'Vere",4665
+"121","The Great Hunt","Ch19: Beneath the Dagger","Rand al'Thor",5238
+"122","The Great Hunt","Ch19: Beneath the Dagger","Padan Fain",258
+"123","The Great Hunt","Ch20: Saidin","Rand al'Thor",2677
+"124","The Great Hunt","Ch21: The Nine Rings","Rand al'Thor",4394
+"125","The Great Hunt","Ch22: Watchers","Moiraine Damodred",5353
+"126","The Great Hunt","Ch23: The Testing","Nynaeve al'Meara",7750
+"127","The Great Hunt","Ch24: New Friends and Old Enemies","Egwene al'Vere",4221
+"128","The Great Hunt","Ch24: New Friends and Old Enemies","Min Farshaw",192
+"129","The Great Hunt","Ch25: Cairhien","Rand al'Thor",4584
+"130","The Great Hunt","Ch26: Discord","Rand al'Thor",4291
+"131","The Great Hunt","Ch26: Discord","Thomdril Merrilin",629
+"132","The Great Hunt","Ch27: The Shadow in the Night","Rand al'Thor",5070
+"133","The Great Hunt","Ch28: A New Thread in the Pattern","Perrin Aybara",2690
+"134","The Great Hunt","Ch29: Seanchan","Geofram Bornhald",1582
+"135","The Great Hunt","Ch29: Seanchan","Bayle Domon",5600
+"136","The Great Hunt","Ch30: Daes Dae'mar","Rand al'Thor",4507
+"137","The Great Hunt","Ch31: On the Scent","Rand al'Thor",1875
+"138","The Great Hunt","Ch31: On the Scent","Perrin Aybara",2940
+"139","The Great Hunt","Ch32: Dangerous Words","Rand al'Thor",4079
+"140","The Great Hunt","Ch33: A Message From The Dark","Rand al'Thor",5831
+"141","The Great Hunt","Ch34: The Wheel Weaves","Thomdril Merrilin",2121
+"142","The Great Hunt","Ch34: The Wheel Weaves","Padan Fain",3916
+"143","The Great Hunt","Ch35: Stedding Tsofu","Rand al'Thor",4872
+"144","The Great Hunt","Ch36: Among the Elders","Rand al'Thor",3494
+"145","The Great Hunt","Ch37: What Might Be","Rand al'Thor",4942
+"146","The Great Hunt","Ch38: Practice","Egwene al'Vere",4832
+"147","The Great Hunt","Ch39: Flight From the White Tower","Egwene al'Vere",5278
+"148","The Great Hunt","Ch40: Damane","Egwene al'Vere",4935
+"149","The Great Hunt","Ch40: Damane","Nynaeve al'Meara",1741
+"150","The Great Hunt","Ch41: Disagreements","Rand al'Thor",3428
+"151","The Great Hunt","Ch42: Falme","Nynaeve al'Meara",1679
+"152","The Great Hunt","Ch42: Falme","Egwene al'Vere",2979
+"153","The Great Hunt","Ch43: A Plan","Min Farshaw",3355
+"154","The Great Hunt","Ch44: Five Will Ride Forth","Perrin Aybara",1092
+"155","The Great Hunt","Ch44: Five Will Ride Forth","Geofram Bornhald",1084
+"156","The Great Hunt","Ch44: Five Will Ride Forth","Rand al'Thor",1561
+"157","The Great Hunt","Ch45: Blademaster","Nynaeve al'Meara",2563
+"158","The Great Hunt","Ch45: Blademaster","Bayle Domon",178
+"159","The Great Hunt","Ch45: Blademaster","Rand al'Thor",5299
+"160","The Great Hunt","Ch46: To Come Out of the Shadow","Nynaeve al'Meara",3491
+"161","The Great Hunt","Ch46: To Come Out of the Shadow","Bayle Domon",245
+"162","The Great Hunt","Ch46: To Come Out of the Shadow","Geofram Bornhald",197
+"163","The Great Hunt","Ch46: To Come Out of the Shadow","Rand al'Thor",1157
+"164","The Great Hunt","Ch47: The Grave Is No Bar to My Call","Rand al'Thor",1129
+"165","The Great Hunt","Ch47: The Grave Is No Bar to My Call","Geofram Bornhald",217
+"166","The Great Hunt","Ch47: The Grave Is No Bar to My Call","Rand al'Thor",2751
+"167","The Great Hunt","Ch48: First Claiming","Min Farshaw",1830
+"168","The Great Hunt","Ch48: First Claiming","Jaret Byar",122
+"169","The Great Hunt","Ch49: What Was Meant To Be","Rand al'Thor",2381
+"170","The Great Hunt","Ch50: After","Narrator",174
+"171","The Great Hunt","Ch50: After","Quote",111
+"172","The Dragon Reborn","Prologue: Fortress of the Light","Quote",100
+"173","The Dragon Reborn","Prologue: Fortress of the Light","Pedron Niall",5530
+"174","The Dragon Reborn","Prologue: Fortress of the Light","Jaichim Carridin",1220
+"175","The Dragon Reborn","Ch1: Waiting","Perrin Aybara",4112
+"176","The Dragon Reborn","Ch2: Saidin","Perrin Aybara",4741
+"177","The Dragon Reborn","Ch3: News from the Plain","Perrin Aybara",3529
+"178","The Dragon Reborn","Ch4: Shadows Sleeping","Perrin Aybara",2978
+"179","The Dragon Reborn","Ch5: Nightmares Walking","Perrin Aybara",4870
+"180","The Dragon Reborn","Ch6: The Hunt Begins","Perrin Aybara",5399
+"181","The Dragon Reborn","Ch7: The Way Out of the Mountains","Perrin Aybara",2124
+"182","The Dragon Reborn","Ch8: Jarra","Perrin Aybara",5512
+"183","The Dragon Reborn","Ch9: Wolf Dreams","Perrin Aybara",2255
+"184","The Dragon Reborn","Ch9: Wolf Dreams","Rand al'Thor",523
+"185","The Dragon Reborn","Ch10: Secrets","Egwene al'Vere",5441
+"186","The Dragon Reborn","Ch11: Tar Valon","Egwene al'Vere",3965
+"187","The Dragon Reborn","Ch12: The Amyrlin Seat","Siuan Sanche",2088
+"188","The Dragon Reborn","Ch13: Punishments","Egwene al'Vere",4489
+"189","The Dragon Reborn","Ch14: The Bite of the Thorns","Egwene al'Vere",2759
+"190","The Dragon Reborn","Ch15: The Gray Man","Egwene al'Vere",3175
+"191","The Dragon Reborn","Ch16: Hunters Three","Egwene al'Vere",3234
+"192","The Dragon Reborn","Ch17: The Red Sister","Egwene al'Vere",2294
+"193","The Dragon Reborn","Ch18: Healing","Egwene al'Vere",2341
+"194","The Dragon Reborn","Ch19: Awakening","Matrim Cauthon",2761
+"195","The Dragon Reborn","Ch20: Visitations","Matrim Cauthon",4737
+"196","The Dragon Reborn","Ch21: A World of Dreams","Egwene al'Vere",2557
+"197","The Dragon Reborn","Ch21: A World of Dreams","Verin Mathwin",221
+"198","The Dragon Reborn","Ch22: The Price of the Ring","Egwene al'Vere",8342
+"199","The Dragon Reborn","Ch23: Sealed","Egwene al'Vere",3096
+"200","The Dragon Reborn","Ch24: Scouting and Discoveries","Matrim Cauthon",5320
+"201","The Dragon Reborn","Ch25: Questions","Egwene al'Vere",4015
+"202","The Dragon Reborn","Ch26: Behind a Lock","Egwene al'Vere",2708
+"203","The Dragon Reborn","Ch27: Tel'aran'rhiod","Egwene al'Vere",5580
+"204","The Dragon Reborn","Ch28: A Way Out","Matrim Cauthon",2692
+"205","The Dragon Reborn","Ch29: A Trap To Spring","Nynaeve al'Meara",3401
+"206","The Dragon Reborn","Ch30: The First Toss","Matrim Cauthon",4191
+"207","The Dragon Reborn","Ch31: The Woman of Tanchico","Matrim Cauthon",2683
+"208","The Dragon Reborn","Ch32: The First Ship","Matrim Cauthon",5464
+"209","The Dragon Reborn","Ch32: The First Ship","Rand al'Thor",598
+"210","The Dragon Reborn","Ch33: Within the Weave","Perrin Aybara",4454
+"211","The Dragon Reborn","Ch34: A Different Dance","Perrin Aybara",4158
+"212","The Dragon Reborn","Ch35: The Falcon","Perrin Aybara",3225
+"213","The Dragon Reborn","Ch36: Daughter of the Night","Perrin Aybara",4072
+"214","The Dragon Reborn","Ch36: Daughter of the Night","Rand al'Thor",788
+"215","The Dragon Reborn","Ch37: Fires in Cairhien","Egwene al'Vere",4024
+"216","The Dragon Reborn","Ch38: Maidens of the Spear","Egwene al'Vere",3672
+"217","The Dragon Reborn","Ch39: Threads in the Pattern","Egwene al'Vere",7593
+"218","The Dragon Reborn","Ch40: A Hero in the Night","Matrim Cauthon",5947
+"219","The Dragon Reborn","Ch41: A Hunter's Oath","Perrin Aybara",3027
+"220","The Dragon Reborn","Ch42: Easing the Badger","Perrin Aybara",5636
+"221","The Dragon Reborn","Ch43: Shadowbrothers","Perrin Aybara",2878
+"222","The Dragon Reborn","Ch44: Hunted","Perrin Aybara",3136
+"223","The Dragon Reborn","Ch44: Hunted","Matrim Cauthon",1801
+"224","The Dragon Reborn","Ch45: Caemlyn","Matrim Cauthon",3990
+"225","The Dragon Reborn","Ch46: A Message Out of the Shadow","Matrim Cauthon",4159
+"226","The Dragon Reborn","Ch47: To Race the Shadow","Matrim Cauthon",2955
+"227","The Dragon Reborn","Ch48: Following the Craft","Egwene al'Vere",6193
+"228","The Dragon Reborn","Ch49: A Storm in Tear","Egwene al'Vere",2341
+"229","The Dragon Reborn","Ch49: A Storm in Tear","Matrim Cauthon",5427
+"230","The Dragon Reborn","Ch50: The Hammer","Perrin Aybara",6179
+"231","The Dragon Reborn","Ch51: Bait for the Net","Nynaeve al'Meara",3499
+"232","The Dragon Reborn","Ch52: In Search of a Remedy","Matrim Cauthon",2662
+"233","The Dragon Reborn","Ch53: A Flow of the Spirit","Perrin Aybara",2981
+"234","The Dragon Reborn","Ch54: Into the Stone","Matrim Cauthon",3813
+"235","The Dragon Reborn","Ch54: Into the Stone","Rand al'Thor",139
+"236","The Dragon Reborn","Ch54: Into the Stone","Egwene al'Vere",1934
+"237","The Dragon Reborn","Ch54: Into the Stone","Perrin Aybara",474
+"238","The Dragon Reborn","Ch54: Into the Stone","Matrim Cauthon",973
+"239","The Dragon Reborn","Ch55: What Is Written in Prophecy","Rand al'Thor",2213
+"240","The Dragon Reborn","Ch55: What Is Written in Prophecy","Egwene al'Vere",1003
+"241","The Dragon Reborn","Ch55: What Is Written in Prophecy","Matrim Cauthon",1882
+"242","The Dragon Reborn","Ch55: What Is Written in Prophecy","Perrin Aybara",740
+"243","The Dragon Reborn","Ch55: What Is Written in Prophecy","Rand al'Thor",1572
+"244","The Dragon Reborn","Ch56: People of the Dragon","Narrator",126
+"245","The Dragon Reborn","Ch56: People of the Dragon","Matrim Cauthon",2787
+"246","The Dragon Reborn","Ch56: People of the Dragon","Quote",76
+"247","The Shadow Rising","Ch1: Seeds of Shadow","Quote",108
+"248","The Shadow Rising","Ch1: Seeds of Shadow","Min Farshaw",9837
+"249","The Shadow Rising","Ch1: Seeds of Shadow","Elaida do Avriny a'Roihan",1423
+"250","The Shadow Rising","Ch1: Seeds of Shadow","Dain Bornhald",1836
+"251","The Shadow Rising","Ch1: Seeds of Shadow","Suroth Sabelle Meldarath",2668
+"252","The Shadow Rising","Ch2: Whirlpools in the Pattern","Perrin Aybara",4376
+"253","The Shadow Rising","Ch2: Whirlpools in the Pattern","Matrim Cauthon",5072
+"254","The Shadow Rising","Ch2: Whirlpools in the Pattern","Rand al'Thor",5633
+"255","The Shadow Rising","Ch3: Reflection","Perrin Aybara",7299
+"256","The Shadow Rising","Ch4: Strings","Thomdril Merrilin",2677
+"257","The Shadow Rising","Ch5: Questioners","Egwene al'Vere",3927
+"258","The Shadow Rising","Ch6: Doorways","Elayne Trakand",7490
+"259","The Shadow Rising","Ch7: Playing With Fire","Egwene al'Vere",6418
+"260","The Shadow Rising","Ch8: Hard Heads","Elayne Trakand",2725
+"261","The Shadow Rising","Ch8: Hard Heads","Rand al'Thor",1333
+"262","The Shadow Rising","Ch8: Hard Heads","Egwene al'Vere",1863
+"263","The Shadow Rising","Ch9: Decisions","Matrim Cauthon",596
+"264","The Shadow Rising","Ch9: Decisions","Perrin Aybara",548
+"265","The Shadow Rising","Ch9: Decisions","Egwene al'Vere",779
+"266","The Shadow Rising","Ch9: Decisions","Elayne Trakand",417
+"267","The Shadow Rising","Ch9: Decisions","Rand al'Thor",3900
+"268","The Shadow Rising","Ch10: The Stone Stands","Rand al'Thor",5458
+"269","The Shadow Rising","Ch11: What Lies Hidden","Egwene al'Vere",8021
+"270","The Shadow Rising","Ch12: Tanchico or the Tower","Elayne Trakand",3463
+"271","The Shadow Rising","Ch13: Rumors","Matrim Cauthon",3392
+"272","The Shadow Rising","Ch14: Customs of Mayene","Perrin Aybara",1980
+"273","The Shadow Rising","Ch14: Customs of Mayene","Faile Bashere",1368
+"274","The Shadow Rising","Ch15: Into the Doorway","Matrim Cauthon",4673
+"275","The Shadow Rising","Ch16: Leavetakings","Perrin Aybara",3364
+"276","The Shadow Rising","Ch16: Leavetakings","Elayne Trakand",1986
+"277","The Shadow Rising","Ch17: Deceptions","Thomdril Merrilin",2933
+"278","The Shadow Rising","Ch17: Deceptions","Min Farshaw",5172
+"279","The Shadow Rising","Ch17: Deceptions","Sahra Covenry",592
+"280","The Shadow Rising","Ch18: Into the Ways","Perrin Aybara",4350
+"281","The Shadow Rising","Ch19: The Wavedancer","Elayne Trakand",5719
+"282","The Shadow Rising","Ch20: Winds Rising","Elayne Trakand",6691
+"283","The Shadow Rising","Ch21: Into the Heart","Moiraine Damodred",5648
+"284","The Shadow Rising","Ch22: Out of the Stone","Rand al'Thor",6286
+"285","The Shadow Rising","Ch23: Beyond the Stone","Egwene al'Vere",9380
+"286","The Shadow Rising","Ch24: Rhuidean","Matrim Cauthon",5508
+"287","The Shadow Rising","Ch25: The Road to the Spear","Rand al'Thor",6764
+"288","The Shadow Rising","Ch26: The Dedicated","Rand al'Thor",8363
+"289","The Shadow Rising","Ch27: Within the Ways","Perrin Aybara",4787
+"290","The Shadow Rising","Ch28: To the Tower of Ghenjei","Perrin Aybara",4285
+"291","The Shadow Rising","Ch29: Homecoming","Perrin Aybara",5812
+"292","The Shadow Rising","Ch30: Beyond the Oak","Perrin Aybara",4593
+"293","The Shadow Rising","Ch31: Assurances","Perrin Aybara",5120
+"294","The Shadow Rising","Ch31: Assurances","Dain Bornhald",2070
+"295","The Shadow Rising","Ch31: Assurances","Padan Fain",640
+"296","The Shadow Rising","Ch32: Questions to Be Asked","Perrin Aybara",5832
+"297","The Shadow Rising","Ch33: A New Weave in the Pattern","Perrin Aybara",8929
+"298","The Shadow Rising","Ch34: He Who Comes With the Dawn","Rand al'Thor",7967
+"299","The Shadow Rising","Ch35: Sharp Lessons","Egwene al'Vere",5260
+"300","The Shadow Rising","Ch36: Misdirections","Rand al'Thor",1777
+"301","The Shadow Rising","Ch36: Misdirections","Matrim Cauthon",3335
+"302","The Shadow Rising","Ch37: Imre Stand","Rand al'Thor",3832
+"303","The Shadow Rising","Ch37: Imre Stand","Matrim Cauthon",4001
+"304","The Shadow Rising","Ch37: Imre Stand","Rand al'Thor",313
+"305","The Shadow Rising","Ch38: Hidden Faces","Egeanin Tamarath",2182
+"306","The Shadow Rising","Ch38: Hidden Faces","Jaichim Carridin",3194
+"307","The Shadow Rising","Ch38: Hidden Faces","Liandrin",1931
+"308","The Shadow Rising","Ch38: Hidden Faces","Egeanin Tamarath",2154
+"309","The Shadow Rising","Ch39: A Cup of Wine","Elayne Trakand",4792
+"310","The Shadow Rising","Ch39: A Cup of Wine","Nynaeve al'Meara",1032
+"311","The Shadow Rising","Ch39: A Cup of Wine","Elayne Trakand",1611
+"312","The Shadow Rising","Ch40: Hunter of Trollocs","Perrin Aybara",5323
+"313","The Shadow Rising","Ch41: Among the Tuatha'an","Perrin Aybara",3649
+"314","The Shadow Rising","Ch42: A Missing Leaf","Perrin Aybara",6113
+"315","The Shadow Rising","Ch43: Care for the Living","Perrin Aybara",3698
+"316","The Shadow Rising","Ch44: The Breaking Storm","Perrin Aybara",5391
+"317","The Shadow Rising","Ch45: The Tinker's Sword","Perrin Aybara",7577
+"318","The Shadow Rising","Ch46: Veils","Egeanin Tamarath",1037
+"319","The Shadow Rising","Ch46: Veils","Elayne Trakand",6717
+"320","The Shadow Rising","Ch46: Veils","Egeanin Tamarath",260
+"321","The Shadow Rising","Ch46: Veils","Almurat Mor",130
+"322","The Shadow Rising","Ch47: The Truth of a Viewing","Siuan Sanche",2174
+"323","The Shadow Rising","Ch47: The Truth of a Viewing","Min Farshaw",866
+"324","The Shadow Rising","Ch47: The Truth of a Viewing","Siuan Sanche",644
+"325","The Shadow Rising","Ch47: The Truth of a Viewing","Min Farshaw",6829
+"326","The Shadow Rising","Ch48: An Offer Refused","Rand al'Thor",5521
+"327","The Shadow Rising","Ch49: Cold Rocks Hold","Rand al'Thor",6025
+"328","The Shadow Rising","Ch50: Traps","Rand al'Thor",5129
+"329","The Shadow Rising","Ch50: Traps","Matrim Cauthon",1724
+"330","The Shadow Rising","Ch51: Revelations in Tanchico","Elayne Trakand",6646
+"331","The Shadow Rising","Ch52: Need","Nynaeve al'Meara",6589
+"332","The Shadow Rising","Ch52: Need","Elayne Trakand",2011
+"333","The Shadow Rising","Ch53: The Price of a Departure","Perrin Aybara",7948
+"334","The Shadow Rising","Ch54: Into the Palace","Elayne Trakand",5319
+"335","The Shadow Rising","Ch54: Into the Palace","Nynaeve al'Meara",3645
+"336","The Shadow Rising","Ch55: Into the Deep","Nynaeve al'Meara",3229
+"337","The Shadow Rising","Ch56: Goldeneyes","Perrin Aybara",8248
+"338","The Shadow Rising","Ch56: Goldeneyes","Padan Fain",514
+"339","The Shadow Rising","Ch57: A Breaking in the Three-fold Land","Rand al'Thor",8239
+"340","The Shadow Rising","Ch58: The Traps of Rhuidean","Rand al'Thor",6665
+"341","The Shadow Rising","Ch58: The Traps of Rhuidean","Quote",68
+"342","The Fires of Heaven","Prologue: The First Sparks Fall","Quote",86
+"343","The Fires of Heaven","Prologue: The First Sparks Fall","Elaida do Avriny a'Roihan",4773
+"344","The Fires of Heaven","Prologue: The First Sparks Fall","Padan Fain",874
+"345","The Fires of Heaven","Prologue: The First Sparks Fall","Rahvin",3456
+"346","The Fires of Heaven","Ch1: Fanning The Sparks","Min Farshaw",8332
+"347","The Fires of Heaven","Ch1: Fanning The Sparks","Gareth Bryne",2357
+"348","The Fires of Heaven","Ch1: Fanning The Sparks","Alteima",3000
+"349","The Fires of Heaven","Ch1: Fanning The Sparks","Morgase Trakand",247
+"350","The Fires of Heaven","Ch2: Rhuidean","Rand al'Thor",9104
+"351","The Fires of Heaven","Ch3: Pale Shadows","Rand al'Thor",3344
+"352","The Fires of Heaven","Ch3: Pale Shadows","Matrim Cauthon",3765
+"353","The Fires of Heaven","Ch4: Twilight","Rand al'Thor",5220
+"354","The Fires of Heaven","Ch5: Among the Wise Ones","Egwene al'Vere",8230
+"355","The Fires of Heaven","Ch6: Gateways","Rand al'Thor",8388
+"356","The Fires of Heaven","Ch7: A Departure","Egwene al'Vere",2933
+"357","The Fires of Heaven","Ch7: A Departure","Moiraine Damodred",1533
+"358","The Fires of Heaven","Ch8: Over the Border","Nynaeve al'Meara",3390
+"359","The Fires of Heaven","Ch9: A Signal","Nynaeve al'Meara",6131
+"360","The Fires of Heaven","Ch10: Figs and Mice","Elayne Trakand",4608
+"361","The Fires of Heaven","Ch10: Figs and Mice","Narrator",841
+"362","The Fires of Heaven","Ch11: The Nine Horse Hitch","Siuan Sanche",3766
+"363","The Fires of Heaven","Ch11: The Nine Horse Hitch","Min Farshaw",792
+"364","The Fires of Heaven","Ch12: An Old Pipe","Gareth Bryne",2619
+"365","The Fires of Heaven","Ch13: A Small Room in Sienda","Elayne Trakand",5285
+"366","The Fires of Heaven","Ch14: Meetings","Nynaeve al'Meara",5010
+"367","The Fires of Heaven","Ch15: What Can Be Learned in Dreams","Nynaeve al'Meara",4724
+"368","The Fires of Heaven","Ch15: What Can Be Learned in Dreams","Egwene al'Vere",3147
+"369","The Fires of Heaven","Ch16: An Unexpected Offer","Nynaeve al'Meara",5979
+"370","The Fires of Heaven","Ch17: Heading West","Nynaeve al'Meara",4582
+"371","The Fires of Heaven","Ch18: A Hound of Darkness","Liandrin",3710
+"372","The Fires of Heaven","Ch19: Memories","Morgase Trakand",7451
+"373","The Fires of Heaven","Ch19: Memories","Padan Fain",1680
+"374","The Fires of Heaven","Ch20: Jangai Pass","Rand al'Thor",3755
+"375","The Fires of Heaven","Ch21: The Gift of a Blade","Rand al'Thor",4428
+"376","The Fires of Heaven","Ch22: Birdcalls by Night","Matrim Cauthon",2430
+"377","The Fires of Heaven","Ch22: Birdcalls by Night","Rand al'Thor",2665
+"378","The Fires of Heaven","Ch23: ""The Fifth, I Give You""","Egwene al'Vere",3556
+"379","The Fires of Heaven","Ch24: A Message Sent","Egwene al'Vere",4004
+"380","The Fires of Heaven","Ch25: Dreams of Galad","Egwene al'Vere",3553
+"381","The Fires of Heaven","Ch25: Dreams of Galad","Moghedien",269
+"382","The Fires of Heaven","Ch26: Sallie Daera","Min Farshaw",5155
+"383","The Fires of Heaven","Ch27: The Practice of Diffidence","Siuan Sanche",6503
+"384","The Fires of Heaven","Ch28: Trapped","Gareth Bryne",3739
+"385","The Fires of Heaven","Ch28: Trapped","Min Farshaw",1620
+"386","The Fires of Heaven","Ch29: Memories of Saldaea","Hadnan Kadere",2262
+"387","The Fires of Heaven","Ch30: A Wager","Rand al'Thor",3816
+"388","The Fires of Heaven","Ch31: The Far Snows","Rand al'Thor",4564
+"389","The Fires of Heaven","Ch32: A Short Spear","Rand al'Thor",5135
+"390","The Fires of Heaven","Ch33: A Question of Crimson","Nynaeve al'Meara",4784
+"391","The Fires of Heaven","Ch34: A Silver Arrow","Nynaeve al'Meara",4724
+"392","The Fires of Heaven","Ch34: A Silver Arrow","Liandrin",1393
+"393","The Fires of Heaven","Ch35: Ripped Away","Elayne Trakand",3178
+"394","The Fires of Heaven","Ch36: A New Name","Elayne Trakand",6198
+"395","The Fires of Heaven","Ch37: Performances in Samara","Nynaeve al'Meara",4246
+"396","The Fires of Heaven","Ch38: An Old Acquaintance","Nynaeve al'Meara",2791
+"397","The Fires of Heaven","Ch39: Encounters in Samara","Nynaeve al'Meara",7284
+"398","The Fires of Heaven","Ch40: The Wheel Weaves","Nynaeve al'Meara",7737
+"399","The Fires of Heaven","Ch41: The Craft of Kin Tovere","Rand al'Thor",4173
+"400","The Fires of Heaven","Ch42: Before The Arrow","Matrim Cauthon",4767
+"401","The Fires of Heaven","Ch42: Before The Arrow","Rand al'Thor",1328
+"402","The Fires of Heaven","Ch43: This Place, This Day","Rand al'Thor",3160
+"403","The Fires of Heaven","Ch43: This Place, This Day","Matrim Cauthon",3938
+"404","The Fires of Heaven","Ch44: The Lesser Sadness","Rand al'Thor",3735
+"405","The Fires of Heaven","Ch44: The Lesser Sadness","Matrim Cauthon",2792
+"406","The Fires of Heaven","Ch44: The Lesser Sadness","Rand al'Thor",2056
+"407","The Fires of Heaven","Ch45: After the Storm","Matrim Cauthon",2769
+"408","The Fires of Heaven","Ch45: After the Storm","Rand al'Thor",3454
+"409","The Fires of Heaven","Ch46: Other Battle, Other Weapons","Rand al'Thor",7882
+"410","The Fires of Heaven","Ch47: The Price of A Ship","Nynaeve al'Meara",6981
+"411","The Fires of Heaven","Ch47: The Price of A Ship","Elayne Trakand",1659
+"412","The Fires of Heaven","Ch48: Leavetakings","Nynaeve al'Meara",4989
+"413","The Fires of Heaven","Ch49: To Boannda","Nynaeve al'Meara",11647
+"414","The Fires of Heaven","Ch50: To Teach, and Learn","Nynaeve al'Meara",8004
+"415","The Fires of Heaven","Ch50: To Teach, and Learn","Elayne Trakand",1490
+"416","The Fires of Heaven","Ch51: News Comes to Cairhien","Rand al'Thor",7301
+"417","The Fires of Heaven","Ch51: News Comes to Cairhien","Egwene al'Vere",573
+"418","The Fires of Heaven","Ch51: News Comes to Cairhien","Matrim Cauthon",1709
+"419","The Fires of Heaven","Ch52: Choices","Rand al'Thor",3339
+"420","The Fires of Heaven","Ch52: Choices","Hadnan Kadere",1258
+"421","The Fires of Heaven","Ch52: Choices","Rand al'Thor",2155
+"422","The Fires of Heaven","Ch52: Choices","Moiraine Damodred",462
+"423","The Fires of Heaven","Ch53: Fading Words","Rand al'Thor",4263
+"424","The Fires of Heaven","Ch54: To Caemlyn","Rand al'Thor",3802
+"425","The Fires of Heaven","Ch54: To Caemlyn","Nynaeve al'Meara",5381
+"426","The Fires of Heaven","Ch55: The Threads Burn","Rand al'Thor",2240
+"427","The Fires of Heaven","Ch55: The Threads Burn","Nynaeve al'Meara",1646
+"428","The Fires of Heaven","Ch55: The Threads Burn","Rand al'Thor",835
+"429","The Fires of Heaven","Ch55: The Threads Burn","Nynaeve al'Meara",1090
+"430","The Fires of Heaven","Ch55: The Threads Burn","Rand al'Thor",355
+"431","The Fires of Heaven","Ch55: The Threads Burn","Nynaeve al'Meara",1347
+"432","The Fires of Heaven","Ch55: The Threads Burn","Rand al'Thor",1087
+"433","The Fires of Heaven","Ch56: Glowing Embers","Rand al'Thor",1901
+"434","The Fires of Heaven","Ch56: Glowing Embers","Asmodean",328
+"435","The Fires of Heaven","Ch56: Glowing Embers","Morgase Trakand",835
+"436","The Fires of Heaven","Ch56: Glowing Embers","Quote",77
+"437","Lord of Chaos","Prologue: The First Message","Quote",41
+"438","Lord of Chaos","Prologue: The First Message","Demandred",1864
+"439","Lord of Chaos","Prologue: The First Message","Nynaeve al'Meara",5063
+"440","Lord of Chaos","Prologue: The First Message","Elayne Trakand",4046
+"441","Lord of Chaos","Prologue: The First Message","Faile Bashere",6021
+"442","Lord of Chaos","Prologue: The First Message","Gawyn Trakand",2591
+"443","Lord of Chaos","Prologue: The First Message","Katerine Alruddin",1001
+"444","Lord of Chaos","Prologue: The First Message","Sevanna",637
+"445","Lord of Chaos","Prologue: The First Message","Morgase Trakand",4374
+"446","Lord of Chaos","Prologue: The First Message","Pedron Niall",1280
+"447","Lord of Chaos","Prologue: The First Message","Mesaana",1908
+"448","Lord of Chaos","Prologue: The First Message","Osan'gar",1272
+"449","Lord of Chaos","Ch1: Lion on the Hill","Rand al'Thor",6490
+"450","Lord of Chaos","Ch2: A New Arrival","Rand al'Thor",5591
+"451","Lord of Chaos","Ch3: A Woman's Eyes","Rand al'Thor",6592
+"452","Lord of Chaos","Ch4: A Sense of Humor","Rand al'Thor",7704
+"453","Lord of Chaos","Ch5: A Different Dance","Matrim Cauthon",12582
+"454","Lord of Chaos","Ch6: Threads Woven of Shadow","Sammael",5102
+"455","Lord of Chaos","Ch6: Threads Woven of Shadow","Graendal",986
+"456","Lord of Chaos","Ch6: Threads Woven of Shadow","Semirhage",3091
+"457","Lord of Chaos","Ch7: A Matter of Thought","Elayne Trakand",11728
+"458","Lord of Chaos","Ch7: A Matter of Thought","Demandred",141
+"459","Lord of Chaos","Ch8: The Storm Gathers","Nynaeve al'Meara",9990
+"460","Lord of Chaos","Ch9: Plans","Pedron Niall",5208
+"461","Lord of Chaos","Ch9: Plans","Morgase Trakand",2529
+"462","Lord of Chaos","Ch10: A Saying in the Borderlands","Rand al'Thor",8249
+"463","Lord of Chaos","Ch11: Lessons and Teachers","Verin Mathwin",3197
+"464","Lord of Chaos","Ch11: Lessons and Teachers","Rand al'Thor",2531
+"465","Lord of Chaos","Ch12: Questions and Answers","Nynaeve al'Meara",8590
+"466","Lord of Chaos","Ch12: Questions and Answers","Narrator",10
+"467","Lord of Chaos","Ch13: Under the Dust","Nynaeve al'Meara",7829
+"468","Lord of Chaos","Ch14: Dreams and Nightmares","Egwene al'Vere",3651
+"469","Lord of Chaos","Ch14: Dreams and Nightmares","Nynaeve al'Meara",2959
+"470","Lord of Chaos","Ch15: A Pile of Sand","Egwene al'Vere",4030
+"471","Lord of Chaos","Ch15: A Pile of Sand","Elayne Trakand",4328
+"472","Lord of Chaos","Ch15: A Pile of Sand","Sheriam Bayanar",129
+"473","Lord of Chaos","Ch16: Tellings of the Wheel","Rand al'Thor",5811
+"474","Lord of Chaos","Ch17: The Wheel of a Life","Rand al'Thor",5573
+"475","Lord of Chaos","Ch18: A Taste of Solitude","Rand al'Thor",4031
+"476","Lord of Chaos","Ch18: A Taste of Solitude","Egwene al'Vere",3380
+"477","Lord of Chaos","Ch18: A Taste of Solitude","Rand al'Thor",322
+"478","Lord of Chaos","Ch18: A Taste of Solitude","Sulin",149
+"479","Lord of Chaos","Ch19: Matters of Toh","Rand al'Thor",4365
+"480","Lord of Chaos","Ch19: Matters of Toh","Aviendha",654
+"481","Lord of Chaos","Ch20: From the Stedding","Rand al'Thor",5045
+"482","Lord of Chaos","Ch21: To Shadar Logoth","Rand al'Thor",5347
+"483","Lord of Chaos","Ch22: Heading South","Matrim Cauthon",6192
+"484","Lord of Chaos","Ch23: To Understand a Message","Graendal",1811
+"485","Lord of Chaos","Ch23: To Understand a Message","Sammael",144
+"486","Lord of Chaos","Ch24: An Embassy","Egwene al'Vere",4754
+"487","Lord of Chaos","Ch25: Like Lightning and Rain","Egwene al'Vere",6090
+"488","Lord of Chaos","Ch25: Like Lightning and Rain","Katerine Alruddin",78
+"489","Lord of Chaos","Ch25: Like Lightning and Rain","Nesune Bihara",85
+"490","Lord of Chaos","Ch25: Like Lightning and Rain","Sarene Nemdahl",1116
+"491","Lord of Chaos","Ch26: Connecting Lines","Rand al'Thor",5069
+"492","Lord of Chaos","Ch27: Gifts","Egwene al'Vere",8587
+"493","Lord of Chaos","Ch27: Gifts","Nesune Bihara",800
+"494","Lord of Chaos","Ch28: Letters","Rand al'Thor",6309
+"495","Lord of Chaos","Ch28: Letters","Padan Fain",1223
+"496","Lord of Chaos","Ch29: Fire and Spirit","Nynaeve al'Meara",4999
+"497","Lord of Chaos","Ch30: To Heal Again","Nynaeve al'Meara",3606
+"498","Lord of Chaos","Ch30: To Heal Again","Siuan Sanche",1356
+"499","Lord of Chaos","Ch30: To Heal Again","Elayne Trakand",2583
+"500","Lord of Chaos","Ch30: To Heal Again","Delana Mosalaine",1406
+"501","Lord of Chaos","Ch31: Red Wax","Eamon Valda",1659
+"502","Lord of Chaos","Ch31: Red Wax","Pedron Niall",885
+"503","Lord of Chaos","Ch31: Red Wax","Morgase Trakand",2686
+"504","Lord of Chaos","Ch31: Red Wax","Rhadam Asunawa",351
+"505","Lord of Chaos","Ch32: Summoned in Haste","Egwene al'Vere",5261
+"506","Lord of Chaos","Ch32: Summoned in Haste","Rand al'Thor",210
+"507","Lord of Chaos","Ch33: Courage to Strengthen","Egwene al'Vere",930
+"508","Lord of Chaos","Ch33: Courage to Strengthen","Matrim Cauthon",3469
+"509","Lord of Chaos","Ch33: Courage to Strengthen","Egwene al'Vere",1657
+"510","Lord of Chaos","Ch34: Journey to Salidar","Egwene al'Vere",3062
+"511","Lord of Chaos","Ch35: In the Hall of the Sitters","Egwene al'Vere",3774
+"512","Lord of Chaos","Ch36: The Amyrlin Is Raised","Egwene al'Vere",5520
+"513","Lord of Chaos","Ch37: When Battle Begins","Egwene al'Vere",3553
+"514","Lord of Chaos","Ch37: When Battle Begins","Romanda Cassin",200
+"515","Lord of Chaos","Ch37: When Battle Begins","Lelaine Akashi",160
+"516","Lord of Chaos","Ch37: When Battle Begins","Delana Mosalaine",305
+"517","Lord of Chaos","Ch37: When Battle Begins","Siuan Sanche",284
+"518","Lord of Chaos","Ch37: When Battle Begins","Nynaeve al'Meara",231
+"519","Lord of Chaos","Ch37: When Battle Begins","Elayne Trakand",446
+"520","Lord of Chaos","Ch37: When Battle Begins","Egwene al'Vere",108
+"521","Lord of Chaos","Ch38: A Sudden Chill","Matrim Cauthon",4800
+"522","Lord of Chaos","Ch39: Possibilities","Egwene al'Vere",5713
+"523","Lord of Chaos","Ch40: Unexpected Laughter","Matrim Cauthon",2182
+"524","Lord of Chaos","Ch40: Unexpected Laughter","Elayne Trakand",2627
+"525","Lord of Chaos","Ch41: A Threat","Min Farshaw",1687
+"526","Lord of Chaos","Ch41: A Threat","Rand al'Thor",5882
+"527","Lord of Chaos","Ch42: The Black Tower","Rand al'Thor",4879
+"528","Lord of Chaos","Ch43: The Crown of Roses","Merana Ambrey",2810
+"529","Lord of Chaos","Ch43: The Crown of Roses","Dyelin Taravin",102
+"530","Lord of Chaos","Ch43: The Crown of Roses","Luan Norwelyn",109
+"531","Lord of Chaos","Ch43: The Crown of Roses","Ellorien Traemane",83
+"532","Lord of Chaos","Ch44: The Color of Trust","Matrim Cauthon",5657
+"533","Lord of Chaos","Ch44: The Color of Trust","Egwene al'Vere",276
+"534","Lord of Chaos","Ch45: A Bitter Thought","Vilnar Barada",879
+"535","Lord of Chaos","Ch45: A Bitter Thought","Perrin Aybara",4550
+"536","Lord of Chaos","Ch46: Beyond the Gate","Perrin Aybara",3382
+"537","Lord of Chaos","Ch46: Beyond the Gate","Rand al'Thor",1691
+"538","Lord of Chaos","Ch46: Beyond the Gate","Demira Eriff",920
+"539","Lord of Chaos","Ch46: Beyond the Gate","Perrin Aybara",1288
+"540","Lord of Chaos","Ch46: Beyond the Gate","Demira Eriff",1298
+"541","Lord of Chaos","Ch47: The Wandering Woman","Matrim Cauthon",5999
+"542","Lord of Chaos","Ch48: Leaning on the Knife","Nynaeve al'Meara",5087
+"543","Lord of Chaos","Ch49: The Mirror of Mists","Rand al'Thor",4144
+"544","Lord of Chaos","Ch49: The Mirror of Mists","Min Farshaw",1698
+"545","Lord of Chaos","Ch49: The Mirror of Mists","Rand al'Thor",1851
+"546","Lord of Chaos","Ch49: The Mirror of Mists","Merana Ambrey",2114
+"547","Lord of Chaos","Ch50: Thorns","Rand al'Thor",4328
+"548","Lord of Chaos","Ch50: Thorns","Perrin Aybara",2519
+"549","Lord of Chaos","Ch50: Thorns","Rand al'Thor",285
+"550","Lord of Chaos","Ch51: The Taking","Rand al'Thor",1451
+"551","Lord of Chaos","Ch51: The Taking","Bain",280
+"552","Lord of Chaos","Ch51: The Taking","Perrin Aybara",248
+"553","Lord of Chaos","Ch51: The Taking","Rand al'Thor",557
+"554","Lord of Chaos","Ch51: The Taking","Sorilea",205
+"555","Lord of Chaos","Ch52: Weaves of the Power","Matrim Cauthon",1761
+"556","Lord of Chaos","Ch52: Weaves of the Power","Elayne Trakand",2171
+"557","Lord of Chaos","Ch52: Weaves of the Power","Egwene al'Vere",3071
+"558","Lord of Chaos","Ch52: Weaves of the Power","Myrelle Berengari",588
+"559","Lord of Chaos","Ch53: The Feast of Lights","Perrin Aybara",4400
+"560","Lord of Chaos","Ch53: The Feast of Lights","Galina Casban",896
+"561","Lord of Chaos","Ch53: The Feast of Lights","Rand al'Thor",1663
+"562","Lord of Chaos","Ch53: The Feast of Lights","Galina Casban",336
+"563","Lord of Chaos","Ch53: The Feast of Lights","Sevanna",322
+"564","Lord of Chaos","Ch54: The Sending","Perrin Aybara",8863
+"565","Lord of Chaos","Ch55: Dumai's Wells","Gawyn Trakand",872
+"566","Lord of Chaos","Ch55: Dumai's Wells","Rand al'Thor",678
+"567","Lord of Chaos","Ch55: Dumai's Wells","Perrin Aybara",2082
+"568","Lord of Chaos","Ch55: Dumai's Wells","Rand al'Thor",5470
+"569","Lord of Chaos","Epilogue: The Answer","Falion Bhoda",314
+"570","Lord of Chaos","Epilogue: The Answer","Narrator",120
+"571","Lord of Chaos","Epilogue: The Answer","Seanchan Rider",129
+"572","Lord of Chaos","Epilogue: The Answer","Moghedien",583
+"573","Lord of Chaos","Epilogue: The Answer","Egwene al'Vere",154
+"574","Lord of Chaos","Epilogue: The Answer","Demandred",39
+"575","Lord of Chaos","Epilogue: The Answer","Quote",71
+"576","A Crown of Swords","Prologue: Lightnings","Quote",103
+"577","A Crown of Swords","Prologue: Lightnings","Elaida do Avriny a'Roihan",6480
+"578","A Crown of Swords","Prologue: Lightnings","Sevanna",5304
+"579","A Crown of Swords","Prologue: Lightnings","Alviarin Freidhen",2329
+"580","A Crown of Swords","Prologue: Lightnings","Pedron Niall",2313
+"581","A Crown of Swords","Prologue: Lightnings","Eamon Valda",1079
+"582","A Crown of Swords","Prologue: Lightnings","Gawyn Trakand",1959
+"583","A Crown of Swords","Ch1: High Chasaline","Perrin Aybara",5983
+"584","A Crown of Swords","Ch2: The Butcher's Yard","Perrin Aybara",9708
+"585","A Crown of Swords","Ch3: Hill of the Golden Dawn","Perrin Aybara",6409
+"586","A Crown of Swords","Ch4: Into Cairhien","Perrin Aybara",5032
+"587","A Crown of Swords","Ch5: A Broken Crown","Perrin Aybara",5034
+"588","A Crown of Swords","Ch6: Old Fear, and New Fear","Perrin Aybara",4401
+"589","A Crown of Swords","Ch7: Pitfalls and Tripwires","Rand al'Thor",7930
+"590","A Crown of Swords","Ch8: The Figurehead","Egwene al'Vere",4886
+"591","A Crown of Swords","Ch9: A Pair of Silverpike","Egwene al'Vere",8177
+"592","A Crown of Swords","Ch10: Unseen Eyes","Egwene al'Vere",8530
+"593","A Crown of Swords","Ch11: An Oath","Egwene al'Vere",7968
+"594","A Crown of Swords","Ch12: A Morning of Victory","Egwene al'Vere",13402
+"595","A Crown of Swords","Ch13: The Bowl of the Winds","Aviendha",7648
+"596","A Crown of Swords","Ch14: White Plumes","Matrim Cauthon",6557
+"597","A Crown of Swords","Ch15: Insects","Jaichim Carridin",3379
+"598","A Crown of Swords","Ch16: A Touch on the Cheek","Matrim Cauthon",5637
+"599","A Crown of Swords","Ch17: The Triumph of Logic","Matrim Cauthon",3809
+"600","A Crown of Swords","Ch17: The Triumph of Logic","Joline Maza",1527
+"601","A Crown of Swords","Ch17: The Triumph of Logic","Falion Bhoda",1479
+"602","A Crown of Swords","Ch17: The Triumph of Logic","Noal Charin",314
+"603","A Crown of Swords","Ch18: As the Plow Breaks the Earth","Rand al'Thor",6010
+"604","A Crown of Swords","Ch19: Diamonds and Stars","Merana Ambrey",3992
+"605","A Crown of Swords","Ch19: Diamonds and Stars","Min Farshaw",1535
+"606","A Crown of Swords","Ch19: Diamonds and Stars","Cadsuane Melaidhrin",425
+"607","A Crown of Swords","Ch20: Patterns Within Patterns","Sevanna",3482
+"608","A Crown of Swords","Ch20: Patterns Within Patterns","Moridin",1115
+"609","A Crown of Swords","Ch21: Swovan Night","Matrim Cauthon",2290
+"610","A Crown of Swords","Ch21: Swovan Night","Nynaeve al'Meara",3288
+"611","A Crown of Swords","Ch22: Small Sacrifices","Elayne Trakand",6259
+"612","A Crown of Swords","Ch23: Next Door to a Weaver","Nynaeve al'Meara",7280
+"613","A Crown of Swords","Ch24: The Kin","Reanne Corly",1242
+"614","A Crown of Swords","Ch24: The Kin","Nynaeve al'Meara",2245
+"615","A Crown of Swords","Ch25: Mindtrap","Moghedien",3717
+"616","A Crown of Swords","Ch26: The Irrevocable Words","Morgase Trakand",8489
+"617","A Crown of Swords","Ch27: To Be Alone","Perrin Aybara",3712
+"618","A Crown of Swords","Ch28: Bread and Cheese","Matrim Cauthon",6692
+"619","A Crown of Swords","Ch29: The Festival of Birds","Matrim Cauthon",4706
+"620","A Crown of Swords","Ch29: The Festival of Birds","Reanne Corly",274
+"621","A Crown of Swords","Ch30: The First Cup","Elayne Trakand",3212
+"622","A Crown of Swords","Ch30: The First Cup","Moghedien",1195
+"623","A Crown of Swords","Ch31: Mashiara","Nynaeve al'Meara",4645
+"624","A Crown of Swords","Ch31: Mashiara","Elayne Trakand",2722
+"625","A Crown of Swords","Ch32: Sealed to the Flame","Elaida do Avriny a'Roihan",3207
+"626","A Crown of Swords","Ch32: Sealed to the Flame","Alviarin Freidhen",217
+"627","A Crown of Swords","Ch32: Sealed to the Flame","Seaine Herimon",3228
+"628","A Crown of Swords","Ch33: A Bath","Rand al'Thor",4831
+"629","A Crown of Swords","Ch34: Ta'veren","Rand al'Thor",5652
+"630","A Crown of Swords","Ch35: Into the Woods","Min Farshaw",6579
+"631","A Crown of Swords","Ch36: Blades","Min Farshaw",8114
+"632","A Crown of Swords","Ch37: A Note from the Palace","Matrim Cauthon",3791
+"633","A Crown of Swords","Ch38: Six Stories","Matrim Cauthon",9085
+"634","A Crown of Swords","Ch39: Promises to Keep","Matrim Cauthon",8554
+"635","A Crown of Swords","Ch40: Spears","Galina Casban",2690
+"636","A Crown of Swords","Ch40: Spears","Sevanna",1772
+"637","A Crown of Swords","Ch40: Spears","Maeric",1127
+"638","A Crown of Swords","Ch40: Spears","Graendal",551
+"639","A Crown of Swords","Ch40: Spears","Shaidar Haran",230
+"640","A Crown of Swords","Ch41: A Crown of Swords","Rand al'Thor",11891
+"641","A Crown of Swords","Ch41: A Crown of Swords","Narrator",231
+"642","A Crown of Swords","Ch41: A Crown of Swords","Quote",65
+"643","The Path of Daggers","Prologue: Deceptive Appearances","Quote",52
+"644","The Path of Daggers","Prologue: Deceptive Appearances","Ethenielle Kirukon Materasu",3917
+"645","The Path of Daggers","Prologue: Deceptive Appearances","Verin Mathwin",7309
+"646","The Path of Daggers","Prologue: Deceptive Appearances","Moridin",863
+"647","The Path of Daggers","Ch1: To Keep the Bargain","Aviendha",8460
+"648","The Path of Daggers","Ch2: Unweaving","Elayne Trakand",5893
+"649","The Path of Daggers","Ch2: Unweaving","Moridin",1015
+"650","The Path of Daggers","Ch2: Unweaving","Gholam",402
+"651","The Path of Daggers","Ch3: A Pleasant Ride","Elayne Trakand",5029
+"652","The Path of Daggers","Ch4: A Quiet Place","Elayne Trakand",5477
+"653","The Path of Daggers","Ch5: The Breaking Storm","Elayne Trakand",7722
+"654","The Path of Daggers","Ch6: Threads","Elayne Trakand",8456
+"655","The Path of Daggers","Ch6: Threads","Chulein",1231
+"656","The Path of Daggers","Ch7: A Goatpen","Perrin Aybara",6470
+"657","The Path of Daggers","Ch8: A Simple Country Woman","Perrin Aybara",6891
+"658","The Path of Daggers","Ch8: A Simple Country Woman","Faile Bashere",2314
+"659","The Path of Daggers","Ch8: A Simple Country Woman","Morgase Trakand",1373
+"660","The Path of Daggers","Ch9: Tangles","Perrin Aybara",7786
+"661","The Path of Daggers","Ch10: Changes","Perrin Aybara",6231
+"662","The Path of Daggers","Ch10: Changes","Faile Bashere",1780
+"663","The Path of Daggers","Ch10: Changes","Perrin Aybara",1058
+"664","The Path of Daggers","Ch11: Questions and an Oath","Sevanna",3223
+"665","The Path of Daggers","Ch11: Questions and an Oath","Galina Casban",3476
+"666","The Path of Daggers","Ch12: New Alliances","Graendal",3055
+"667","The Path of Daggers","Ch12: New Alliances","Cadsuane Melaidhrin",5247
+"668","The Path of Daggers","Ch13: Floating Like Snow","Rand al'Thor",4531
+"669","The Path of Daggers","Ch14: Message from the M'Hael","Rand al'Thor",5471
+"670","The Path of Daggers","Ch15: Stronger than Written Law","Egwene al'Vere",6755
+"671","The Path of Daggers","Ch16: Unexpected Absences","Egwene al'Vere",2878
+"672","The Path of Daggers","Ch16: Unexpected Absences","Aran'gar",255
+"673","The Path of Daggers","Ch16: Unexpected Absences","Egwene al'Vere",4878
+"674","The Path of Daggers","Ch16: Unexpected Absences","Sheriam Bayanar",168
+"675","The Path of Daggers","Ch17: Out on the Ice","Egwene al'Vere",5848
+"676","The Path of Daggers","Ch18: A Peculiar Calling","Egwene al'Vere",3991
+"677","The Path of Daggers","Ch19: The Law","Egwene al'Vere",6784
+"678","The Path of Daggers","Ch20: Into Andor","Elayne Trakand",6200
+"679","The Path of Daggers","Ch21: Answering the Summons","Rand al'Thor",5857
+"680","The Path of Daggers","Ch22: Gathering Clouds","Rand al'Thor",3727
+"681","The Path of Daggers","Ch22: Gathering Clouds","Assid Bakuun",1403
+"682","The Path of Daggers","Ch23: Fog of War, Storm of Battle","Rand al'Thor",2766
+"683","The Path of Daggers","Ch23: Fog of War, Storm of Battle","Furyk Karede",1603
+"684","The Path of Daggers","Ch23: Fog of War, Storm of Battle","Rand al'Thor",3655
+"685","The Path of Daggers","Ch24: A Time for Iron","Kennar Miraj",2540
+"686","The Path of Daggers","Ch24: A Time for Iron","Rand al'Thor",3226
+"687","The Path of Daggers","Ch24: A Time for Iron","Kennar Miraj",649
+"688","The Path of Daggers","Ch24: A Time for Iron","Bertome Saighan",1141
+"689","The Path of Daggers","Ch24: A Time for Iron","Varek",1308
+"690","The Path of Daggers","Ch24: A Time for Iron","Davram Bashere",776
+"691","The Path of Daggers","Ch24: A Time for Iron","Rand al'Thor",2531
+"692","The Path of Daggers","Ch24: A Time for Iron","Abaldar Yulan",117
+"693","The Path of Daggers","Ch25: An Unwelcome Return","Elaida do Avriny a'Roihan",3509
+"694","The Path of Daggers","Ch25: An Unwelcome Return","Alviarin Freidhen",629
+"695","The Path of Daggers","Ch26: The Extra Bit","Seaine Herimon",5314
+"696","The Path of Daggers","Ch26: The Extra Bit","Toveine Gazal",1904
+"697","The Path of Daggers","Ch27: The Bargain","Min Farshaw",6473
+"698","The Path of Daggers","Ch27: The Bargain","Rand al'Thor",2682
+"699","The Path of Daggers","Ch28: Crimsonthorn","Elayne Trakand",4207
+"700","The Path of Daggers","Ch28: Crimsonthorn","Daved Hanlon",1303
+"701","The Path of Daggers","Ch29: A Cup of Sleep","Min Farshaw",3594
+"702","The Path of Daggers","Ch29: A Cup of Sleep","Rand al'Thor",1989
+"703","The Path of Daggers","Ch29: A Cup of Sleep","Min Farshaw",1104
+"704","The Path of Daggers","Ch30: Beginnings","Perrin Aybara",2700
+"705","The Path of Daggers","Ch30: Beginnings","Faile Bashere",2365
+"706","The Path of Daggers","Ch30: Beginnings","Egwene al'Vere",964
+"707","The Path of Daggers","Ch31: After","Narrator",319
+"708","Winter's Heart","Prologue: Snow","Quote",54
+"709","Winter's Heart","Prologue: Snow","Seaine Herimon",3594
+"710","Winter's Heart","Prologue: Snow","Elayne Trakand",12438
+"711","Winter's Heart","Prologue: Snow","Toveine Gazal",5901
+"712","Winter's Heart","Prologue: Snow","Rand al'Thor",5209
+"713","Winter's Heart","Ch1: Leaving the Prophet","Perrin Aybara",4065
+"714","Winter's Heart","Ch2: Taken","Perrin Aybara",5321
+"715","Winter's Heart","Ch3: Customs","Faile Bashere",4694
+"716","Winter's Heart","Ch4: Offers","Faile Bashere",6829
+"717","Winter's Heart","Ch5: Flags","Perrin Aybara",4042
+"718","Winter's Heart","Ch6: The Scent of Madness","Perrin Aybara",6850
+"719","Winter's Heart","Ch7: The Streets of Caemlyn","Elayne Trakand",6384
+"720","Winter's Heart","Ch8: Sea Folk and Kin","Elayne Trakand",7313
+"721","Winter's Heart","Ch9: A Cup of Tea","Elayne Trakand",4764
+"722","Winter's Heart","Ch10: A Plan Succeeds","Elayne Trakand",7551
+"723","Winter's Heart","Ch10: A Plan Succeeds","Asne Zeramene",1662
+"724","Winter's Heart","Ch10: A Plan Succeeds","Mili Skane",1087
+"725","Winter's Heart","Ch11: Ideas of Importance","Rand al'Thor",2675
+"726","Winter's Heart","Ch11: Ideas of Importance","Nynaeve al'Meara",7571
+"727","Winter's Heart","Ch12: A Lily in Winter","Elayne Trakand",5731
+"728","Winter's Heart","Ch12: A Lily in Winter","Min Farshaw",2706
+"729","Winter's Heart","Ch12: A Lily in Winter","Elayne Trakand",343
+"730","Winter's Heart","Ch13: Wonderful News","Cadsuane Melaidhrin",4589
+"731","Winter's Heart","Ch13: Wonderful News","Demandred",2238
+"732","Winter's Heart","Ch14: What a Veil Hides","Tuon Athaem Kore Paendrag",3630
+"733","Winter's Heart","Ch15: In Need of a Bellfounder","Matrim Cauthon",4409
+"734","Winter's Heart","Ch16: An Unexpected Encounter","Matrim Cauthon",5996
+"735","Winter's Heart","Ch17: Pink Ribbons","Matrim Cauthon",6313
+"736","Winter's Heart","Ch18: An Offer","Matrim Cauthon",5968
+"737","Winter's Heart","Ch19: Three Women","Matrim Cauthon",6074
+"738","Winter's Heart","Ch20: Questions of Treason","Bethamin Zeami",4950
+"739","Winter's Heart","Ch21: A Matter of Property","Egeanin Tamarath",4622
+"740","Winter's Heart","Ch22: Out of Thin Air","Rand al'Thor",3433
+"741","Winter's Heart","Ch22: Out of Thin Air","Raefar Kisman",771
+"742","Winter's Heart","Ch22: Out of Thin Air","Rand al'Thor",1789
+"743","Winter's Heart","Ch22: Out of Thin Air","Slayer",705
+"744","Winter's Heart","Ch23: To Lose the Sun","Shalon din Togara Morning Tide",6617
+"745","Winter's Heart","Ch24: Among the Counsels","Shalon din Togara Morning Tide",4734
+"746","Winter's Heart","Ch25: Bonds","Rand al'Thor",4618
+"747","Winter's Heart","Ch25: Bonds","Verin Mathwin",1116
+"748","Winter's Heart","Ch26: Expectation","Elayne Trakand",6314
+"749","Winter's Heart","Ch27: To Surprise Queens and Kings","Elayne Trakand",7222
+"750","Winter's Heart","Ch28: News in a Cloth Sack","Matrim Cauthon",6734
+"751","Winter's Heart","Ch29: Another Plan","Matrim Cauthon",6136
+"752","Winter's Heart","Ch30: Cold, Fat Raindrops","Matrim Cauthon",3726
+"753","Winter's Heart","Ch31: What the Aelfinn Said","Matrim Cauthon",5102
+"754","Winter's Heart","Ch32: A Portion of Wisdom","Rand al'Thor",5309
+"755","Winter's Heart","Ch33: Blue Carp Street","Min Farshaw",1411
+"756","Winter's Heart","Ch33: Blue Carp Street","Rand al'Thor",3359
+"757","Winter's Heart","Ch34: The Hummingbird's Secret","Nynaeve al'Meara",1189
+"758","Winter's Heart","Ch34: The Hummingbird's Secret","Rand al'Thor",621
+"759","Winter's Heart","Ch34: The Hummingbird's Secret","Cadsuane Melaidhrin",1685
+"760","Winter's Heart","Ch35: With the Choedan Kal","Rand al'Thor",3924
+"761","Winter's Heart","Ch35: With the Choedan Kal","Elza Penfell",584
+"762","Winter's Heart","Ch35: With the Choedan Kal","Barmellin",277
+"763","Winter's Heart","Ch35: With the Choedan Kal","Timna",186
+"764","Winter's Heart","Ch35: With the Choedan Kal","Cyndane",305
+"765","Winter's Heart","Ch35: With the Choedan Kal","Cadsuane Melaidhrin",368
+"766","Winter's Heart","Ch35: With the Choedan Kal","Rand al'Thor",141
+"767","Winter's Heart","Ch35: With the Choedan Kal","Demandred",749
+"768","Winter's Heart","Ch35: With the Choedan Kal","Cyndane",119
+"769","Winter's Heart","Ch35: With the Choedan Kal","Osan'gar",396
+"770","Winter's Heart","Ch35: With the Choedan Kal","Verin Mathwin",225
+"771","Winter's Heart","Ch35: With the Choedan Kal","Eben Hopwil",474
+"772","Winter's Heart","Ch35: With the Choedan Kal","Cyndane",398
+"773","Winter's Heart","Ch35: With the Choedan Kal","Moghedien",305
+"774","Winter's Heart","Ch35: With the Choedan Kal","Rand al'Thor",120
+"775","Winter's Heart","Ch35: With the Choedan Kal","Cadsuane Melaidhrin",627
+"776","Winter's Heart","Ch35: With the Choedan Kal","Osan'gar",236
+"777","Winter's Heart","Ch35: With the Choedan Kal","Elza Penfell",217
+"778","Winter's Heart","Ch35: With the Choedan Kal","Moghedien",342
+"779","Winter's Heart","Ch35: With the Choedan Kal","Cadsuane Melaidhrin",620
+"780","Winter's Heart","Ch35: With the Choedan Kal","Narrator",48
+"781","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Quote",80
+"782","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Rodel Ituralde",4927
+"783","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Eamon Valda",1644
+"784","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Gabrelle",2873
+"785","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Yukiri",6188
+"786","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Gawyn Trakand",3014
+"787","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Davram Bashere",4320
+"788","Crossroads of Twilight","Prologue: Glimmers of the Pattern","Samitsu",9655
+"789","Crossroads of Twilight","Ch1: Time to Be Gone","Matrim Cauthon",7864
+"790","Crossroads of Twilight","Ch2: Two Captains","Matrim Cauthon",5996
+"791","Crossroads of Twilight","Ch3: A Fan of Colors","Matrim Cauthon",9834
+"792","Crossroads of Twilight","Ch4: A Tale of a Doll","Furyk Karede",5721
+"793","Crossroads of Twilight","Ch5: The Forging of a Hammer","Perrin Aybara",8846
+"794","Crossroads of Twilight","Ch6: The Scent of a Dream","Perrin Aybara",5625
+"795","Crossroads of Twilight","Ch7: Blacksmith's Puzzle","Perrin Aybara",5957
+"796","Crossroads of Twilight","Ch8: Whirlpools of Color","Perrin Aybara",7690
+"797","Crossroads of Twilight","Ch9: Traps","Faile Bashere",11636
+"798","Crossroads of Twilight","Ch10: A Blazing Beacon","Elayne Trakand",7019
+"799","Crossroads of Twilight","Ch11: Talk of Debts","Elayne Trakand",6885
+"800","Crossroads of Twilight","Ch12: A Bargain","Elayne Trakand",6643
+"801","Crossroads of Twilight","Ch13: High Seats","Elayne Trakand",6782
+"802","Crossroads of Twilight","Ch14: What Wise Ones Know","Elayne Trakand",8858
+"803","Crossroads of Twilight","Ch15: Gathering Darkness","Elenia Sarand",6642
+"804","Crossroads of Twilight","Ch15: Gathering Darkness","Daved Hanlon",6287
+"805","Crossroads of Twilight","Ch16: The Subject of Negotiations","Egwene al'Vere",7357
+"806","Crossroads of Twilight","Ch17: Secrets","Delana Mosalaine",248
+"807","Crossroads of Twilight","Ch17: Secrets","Egwene al'Vere",10363
+"808","Crossroads of Twilight","Ch18: A Chat with Siuan","Egwene al'Vere",7445
+"809","Crossroads of Twilight","Ch19: Surprises","Egwene al'Vere",9803
+"810","Crossroads of Twilight","Ch20: In the Night","Egwene al'Vere",8034
+"811","Crossroads of Twilight","Ch21: A Mark","Alviarin Freidhen",8132
+"812","Crossroads of Twilight","Ch22: One Answer","Pevara Tazanovni",2392
+"813","Crossroads of Twilight","Ch23: Ornaments","Cadsuane Melaidhrin",6551
+"814","Crossroads of Twilight","Ch24: A Strengthening Storm","Rand al'Thor",4231
+"815","Crossroads of Twilight","Ch24: A Strengthening Storm","Cadsuane Melaidhrin",761
+"816","Crossroads of Twilight","Ch24: A Strengthening Storm","Rand al'Thor",1384
+"817","Crossroads of Twilight","Ch24: A Strengthening Storm","Elza Penfell",424
+"818","Crossroads of Twilight","Ch25: When to Wear Jewels","Perrin Aybara",4360
+"819","Crossroads of Twilight","Ch26: In So Habor","Perrin Aybara",5462
+"820","Crossroads of Twilight","Ch27: What Must Be Done","Perrin Aybara",6558
+"821","Crossroads of Twilight","Ch28: A Cluster of Rosebuds","Matrim Cauthon",10355
+"822","Crossroads of Twilight","Ch29: Something Flickers","Matrim Cauthon",8628
+"823","Crossroads of Twilight","Ch30: What the Oath Rod Can Do","Egwene al'Vere",10877
+"824","Crossroads of Twilight","Epilogue: An Answer","Rand al'Thor",263
+"825","Crossroads of Twilight","Epilogue: An Answer","Quote",55
+"826","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Quote",22
+"827","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Galadedrid Damodred",5567
+"828","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Rodel Ituralde",2965
+"829","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Suroth Sabelle Meldarath",6208
+"830","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Pevara Tazanovni",5700
+"831","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Alviarin Freidhen",2479
+"832","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Galina Casban",6408
+"833","Knife of Dreams","Prologue: Embers Falling on Dry Grass","Egwene al'Vere",7307
+"834","Knife of Dreams","Ch1: When Last Sounds","Siuan Sanche",7785
+"835","Knife of Dreams","Ch2: The Dark One's Touch","Beonin Marinye",4906
+"836","Knife of Dreams","Ch2: The Dark One's Touch","Elaida do Avriny a'Roihan",4226
+"837","Knife of Dreams","Ch3: At the Gardens","Aran'gar",3423
+"838","Knife of Dreams","Ch4: A Deal","Perrin Aybara",5705
+"839","Knife of Dreams","Ch5: Something… Strange","Faile Bashere",6856
+"840","Knife of Dreams","Ch6: A Stave and a Razor","Matrim Cauthon",6706
+"841","Knife of Dreams","Ch7: A Cold Medallion","Matrim Cauthon",4959
+"842","Knife of Dreams","Ch8: Dragons' Eggs","Matrim Cauthon",10979
+"843","Knife of Dreams","Ch9: A Short Path","Matrim Cauthon",6055
+"844","Knife of Dreams","Ch10: A Village in Shiota","Matrim Cauthon",8187
+"845","Knife of Dreams","Ch11: A Hell in Maderin","Matrim Cauthon",10577
+"846","Knife of Dreams","Ch12: A Manufactory","Perrin Aybara",8013
+"847","Knife of Dreams","Ch13: Siege","Elayne Trakand",5287
+"848","Knife of Dreams","Ch14: Wet Things","Elayne Trakand",5494
+"849","Knife of Dreams","Ch15: A Different Skill","Elayne Trakand",6253
+"850","Knife of Dreams","Ch16: The New Follower","Elayne Trakand",5916
+"851","Knife of Dreams","Ch17: A Bronze Bear","Elayne Trakand",6537
+"852","Knife of Dreams","Ch17: A Bronze Bear","Arymilla Marne",1702
+"853","Knife of Dreams","Ch18: News for the Dragon","Rand al'Thor",5952
+"854","Knife of Dreams","Ch19: Vows","Loial",4357
+"855","Knife of Dreams","Ch19: Vows","Rand al'Thor",2767
+"856","Knife of Dreams","Ch20: The Golden Crane","Rand al'Thor",6441
+"857","Knife of Dreams","Ch20: The Golden Crane","Nynaeve al'Meara",1468
+"858","Knife of Dreams","Ch20: The Golden Crane","Weilin Aldragoran",1845
+"859","Knife of Dreams","Ch21: Within the Stone","Rand al'Thor",10535
+"860","Knife of Dreams","Ch22: To Make an Anchor Weep","Harine din Togara Two Winds",6117
+"861","Knife of Dreams","Ch23: Call to a Sitting","Romanda Cassin",9283
+"862","Knife of Dreams","Ch24: Honey in the Tea","Egwene al'Vere",15098
+"863","Knife of Dreams","Ch25: Attending Elaida","Tarna Feir",2179
+"864","Knife of Dreams","Ch25: Attending Elaida","Matrim Cauthon",4845
+"865","Knife of Dreams","Ch26: As If the World Were Fog","Tuon Athaem Kore Paendrag",4488
+"866","Knife of Dreams","Ch26: As If the World Were Fog","Perrin Aybara",6233
+"867","Knife of Dreams","Ch26: As If the World Were Fog","Faile Bashere",1234
+"868","Knife of Dreams","Ch27: A Plain Wooden Box","Rand al'Thor",6423
+"869","Knife of Dreams","Ch27: A Plain Wooden Box","Matrim Cauthon",3722
+"870","Knife of Dreams","Ch28: In Malden","Faile Bashere",6200
+"871","Knife of Dreams","Ch28: In Malden","Galina Casban",467
+"872","Knife of Dreams","Ch29: The Last Knot","Perrin Aybara",3991
+"873","Knife of Dreams","Ch29: The Last Knot","Faile Bashere",890
+"874","Knife of Dreams","Ch29: The Last Knot","Perrin Aybara",4332
+"875","Knife of Dreams","Ch30: Outside the Gates","Faile Bashere",1861
+"876","Knife of Dreams","Ch30: Outside the Gates","Perrin Aybara",4165
+"877","Knife of Dreams","Ch30: Outside the Gates","Galina Casban",728
+"878","Knife of Dreams","Ch31: The House on Full Moon Street","Elayne Trakand",7286
+"879","Knife of Dreams","Ch32: To Keep the Bargain","Birgitte Silverbow",6495
+"880","Knife of Dreams","Ch33: Nine Out of Ten","Elayne Trakand",4959
+"881","Knife of Dreams","Ch34: A Cup of Kaf","Furyk Karede",2816
+"882","Knife of Dreams","Ch35: The Importance of Dyelin","Elayne Trakand",6344
+"883","Knife of Dreams","Ch36: Under an Oak","Furyk Karede",3288
+"884","Knife of Dreams","Ch36: Under an Oak","Matrim Cauthon",1225
+"885","Knife of Dreams","Ch36: Under an Oak","Tuon Athaem Kore Paendrag",385
+"886","Knife of Dreams","Ch37: Prince of the Ravens","Matrim Cauthon",5220
+"887","Knife of Dreams","Epilogue: Remember the Old Saying","Suroth Sabelle Meldarath",1336
+"888","Knife of Dreams","Epilogue: Remember the Old Saying","Pevara Tazanovni",2909
+"889","The Gathering Storm","Prologue: What the Storm Means","Quote",69
+"890","The Gathering Storm","Prologue: What the Storm Means","Renald Fanwar",3841
+"891","The Gathering Storm","Prologue: What the Storm Means","Falendre",1794
+"892","The Gathering Storm","Prologue: What the Storm Means","Tylee Khirgan",1453
+"893","The Gathering Storm","Prologue: What the Storm Means","Graendal",3355
+"894","The Gathering Storm","Prologue: What the Storm Means","Rodel Ituralde",1138
+"895","The Gathering Storm","Prologue: What the Storm Means","Masema Dagar",1449
+"896","The Gathering Storm","Ch1: Tears of Steel","Rand al'Thor",6500
+"897","The Gathering Storm","Ch2: The Nature of Pain","Egwene al'Vere",7040
+"898","The Gathering Storm","Ch3: The Ways of Honor","Aviendha",4458
+"899","The Gathering Storm","Ch4: Nightfall","Gawyn Trakand",1926
+"900","The Gathering Storm","Ch5: A Tale of Blood","Rand al'Thor",3879
+"901","The Gathering Storm","Ch5: A Tale of Blood","Cadsuane Melaidhrin",2171
+"902","The Gathering Storm","Ch6: When Iron Melts","Rodel Ituralde",1369
+"903","The Gathering Storm","Ch6: When Iron Melts","Leane Sharif",1169
+"904","The Gathering Storm","Ch6: When Iron Melts","Egwene al'Vere",619
+"905","The Gathering Storm","Ch7: The Plan for Arad Doman","Nynaeve al'Meara",6114
+"906","The Gathering Storm","Ch8: Clean Shirts","Siuan Sanche",7627
+"907","The Gathering Storm","Ch9: Leaving Malden","Perrin Aybara",5245
+"908","The Gathering Storm","Ch10: The Last of the Tabac","Rodel Ituralde",4506
+"909","The Gathering Storm","Ch11: The Death of Adrin","Aviendha",4507
+"910","The Gathering Storm","Ch12: Unexpected Encounters","Egwene al'Vere",8403
+"911","The Gathering Storm","Ch13: An Offer and a Departure","Gawyn Trakand",5917
+"912","The Gathering Storm","Ch14: A Box Opens","Cadsuane Melaidhrin",2582
+"913","The Gathering Storm","Ch15: A Place to Begin","Rand al'Thor",2022
+"914","The Gathering Storm","Ch15: A Place to Begin","Min Farshaw",2577
+"915","The Gathering Storm","Ch15: A Place to Begin","Aviendha",1242
+"916","The Gathering Storm","Ch16: In the White Tower","Egwene al'Vere",10574
+"917","The Gathering Storm","Ch17: Questions of Control","Cadsuane Melaidhrin",1975
+"918","The Gathering Storm","Ch17: Questions of Control","Perrin Aybara",1720
+"919","The Gathering Storm","Ch18: A Message in Haste","Siuan Sanche",3325
+"920","The Gathering Storm","Ch19: Gambits","Tuon Athaem Kore Paendrag",6922
+"921","The Gathering Storm","Ch20: On a Broken Road","Matrim Cauthon",5587
+"922","The Gathering Storm","Ch21: Embers and Ash","Perrin Aybara",1281
+"923","The Gathering Storm","Ch21: Embers and Ash","Faile Bashere",3840
+"924","The Gathering Storm","Ch21: Embers and Ash","Perrin Aybara",277
+"925","The Gathering Storm","Ch22: The Last That Could Be Done","Semirhage",1084
+"926","The Gathering Storm","Ch22: The Last That Could Be Done","Rand al'Thor",6365
+"927","The Gathering Storm","Ch23: A Warp in the Air","Cadsuane Melaidhrin",1790
+"928","The Gathering Storm","Ch24: A New Commitment","Gawyn Trakand",6335
+"929","The Gathering Storm","Ch25: In Darkness","Sheriam Bayanar",1322
+"930","The Gathering Storm","Ch25: In Darkness","Egwene al'Vere",978
+"931","The Gathering Storm","Ch26: A Crack in the Stone","Aviendha",3813
+"932","The Gathering Storm","Ch26: A Crack in the Stone","Romanda Cassin",1841
+"933","The Gathering Storm","Ch27: The Tipsy Gelding","Matrim Cauthon",8440
+"934","The Gathering Storm","Ch28: Night in Hinderstap","Matrim Cauthon",8779
+"935","The Gathering Storm","Ch29: Into Bandar Eban","Rand al'Thor",5581
+"936","The Gathering Storm","Ch30: Old Advice","Gawyn Trakand",4418
+"937","The Gathering Storm","Ch31: A Promise to Lews Therin","Cadsuane Melaidhrin",3874
+"938","The Gathering Storm","Ch31: A Promise to Lews Therin","Rand al'Thor",4389
+"939","The Gathering Storm","Ch32: Rivers of Shadow","Nynaeve al'Meara",9489
+"940","The Gathering Storm","Ch33: A Conversation with the Dragon","Nynaeve al'Meara",3717
+"941","The Gathering Storm","Ch34: Legends","Matrim Cauthon",5571
+"942","The Gathering Storm","Ch35: A Halo of Blackness","Rand al'Thor",2024
+"943","The Gathering Storm","Ch35: A Halo of Blackness","Tuon Athaem Kore Paendrag",3351
+"944","The Gathering Storm","Ch36: The Death of Tuon","Matrim Cauthon",3457
+"945","The Gathering Storm","Ch36: The Death of Tuon","Tuon Athaem Kore Paendrag",1096
+"946","The Gathering Storm","Ch37: A Force of Light","Min Farshaw",7667
+"947","The Gathering Storm","Ch38: News in Tel'aran'rhiod","Egwene al'Vere",6875
+"948","The Gathering Storm","Ch39: A Visit from Verin Sedai","Egwene al'Vere",7996
+"949","The Gathering Storm","Ch40: The Tower Shakes","Siuan Sanche",1047
+"950","The Gathering Storm","Ch40: The Tower Shakes","Egwene al'Vere",1900
+"951","The Gathering Storm","Ch40: The Tower Shakes","Siuan Sanche",1413
+"952","The Gathering Storm","Ch40: The Tower Shakes","Adelorna Bastine",1706
+"953","The Gathering Storm","Ch41: A Fount of Power","Gawyn Trakand",1587
+"954","The Gathering Storm","Ch41: A Fount of Power","Saerin Asnobar",1534
+"955","The Gathering Storm","Ch41: A Fount of Power","Egwene al'Vere",576
+"956","The Gathering Storm","Ch41: A Fount of Power","Gareth Bryne",2789
+"957","The Gathering Storm","Ch41: A Fount of Power","Egwene al'Vere",783
+"958","The Gathering Storm","Ch41: A Fount of Power","Saerin Asnobar",477
+"959","The Gathering Storm","Ch41: A Fount of Power","Elaida do Avriny a'Roihan",304
+"960","The Gathering Storm","Ch42: Before the Stone of Tear","Rand al'Thor",3863
+"961","The Gathering Storm","Ch43: Sealed to the Flame","Egwene al'Vere",1938
+"962","The Gathering Storm","Ch43: Sealed to the Flame","Jesse Bilal",2635
+"963","The Gathering Storm","Ch43: Sealed to the Flame","Siuan Sanche",970
+"964","The Gathering Storm","Ch43: Sealed to the Flame","Egwene al'Vere",2486
+"965","The Gathering Storm","Ch44: Scents Unknown","Nynaeve al'Meara",6935
+"966","The Gathering Storm","Ch45: The Tower Stands","Egwene al'Vere",4589
+"967","The Gathering Storm","Ch46: To Be Forged Again","Egwene al'Vere",5696
+"968","The Gathering Storm","Ch47: The One He Lost","Rand al'Thor",5202
+"969","The Gathering Storm","Ch48: Reading the Commentary","Min Farshaw",2672
+"970","The Gathering Storm","Ch49: Just Another Man","Rand al'Thor",2374
+"971","The Gathering Storm","Ch50: Veins of Gold","Rand al'Thor",1971
+"972","The Gathering Storm","Epilogue: Bathed in Light","Egwene al'Vere",2002
+"973","The Gathering Storm","Epilogue: Bathed in Light","Quote",52
+"974","Towers of Midnight","Prologue: Distinctions","Quote",179
+"975","Towers of Midnight","Prologue: Distinctions","Lan Mandragoran",1280
+"976","Towers of Midnight","Prologue: Distinctions","Perrin Aybara",2588
+"977","Towers of Midnight","Prologue: Distinctions","Graendal",3539
+"978","Towers of Midnight","Prologue: Distinctions","Galadedrid Damodred",4330
+"979","Towers of Midnight","Prologue: Distinctions","Padan Fain",973
+"980","Towers of Midnight","Prologue: Distinctions","Malenarin Rai",3023
+"981","Towers of Midnight","Ch1: Apples First","Almen Bunt",2931
+"982","Towers of Midnight","Ch2: Questions of Leadership","Perrin Aybara",3606
+"983","Towers of Midnight","Ch2: Questions of Leadership","Galadedrid Damodred",1461
+"984","Towers of Midnight","Ch3: The Amyrlin's Anger","Egwene al'Vere",1154
+"985","Towers of Midnight","Ch3: The Amyrlin's Anger","Siuan Sanche",2609
+"986","Towers of Midnight","Ch3: The Amyrlin's Anger","Egwene al'Vere",1794
+"987","Towers of Midnight","Ch4: The Pattern Groans","Perrin Aybara",3830
+"988","Towers of Midnight","Ch4: The Pattern Groans","Galadedrid Damodred",2505
+"989","Towers of Midnight","Ch5: Writings","Gawyn Trakand",4383
+"990","Towers of Midnight","Ch5: Writings","Egwene al'Vere",391
+"991","Towers of Midnight","Ch5: Writings","Graendal",2146
+"992","Towers of Midnight","Ch6: Questioning Intentions","Morgase Trakand",4972
+"993","Towers of Midnight","Ch7: Lighter than a Feather","Lan Mandragoran",1032
+"994","Towers of Midnight","Ch7: Lighter than a Feather","Galadedrid Damodred",384
+"995","Towers of Midnight","Ch7: Lighter than a Feather","Perrin Aybara",683
+"996","Towers of Midnight","Ch7: Lighter than a Feather","Galadedrid Damodred",393
+"997","Towers of Midnight","Ch7: Lighter than a Feather","Perrin Aybara",350
+"998","Towers of Midnight","Ch7: Lighter than a Feather","Galadedrid Damodred",240
+"999","Towers of Midnight","Ch7: Lighter than a Feather","Perrin Aybara",192
+"1000","Towers of Midnight","Ch7: Lighter than a Feather","Galadedrid Damodred",67
+"1001","Towers of Midnight","Ch7: Lighter than a Feather","Perrin Aybara",71
+"1002","Towers of Midnight","Ch8: The Seven-Striped Lass","Matrim Cauthon",6788
+"1003","Towers of Midnight","Ch9: Blood in the Air","Matrim Cauthon",2908
+"1004","Towers of Midnight","Ch10: After the Taint","Perrin Aybara",3445
+"1005","Towers of Midnight","Ch10: After the Taint","Galadedrid Damodred",270
+"1006","Towers of Midnight","Ch11: An Unexpected Letter","Elayne Trakand",4289
+"1007","Towers of Midnight","Ch12: An Empty Ink Bottle","Min Farshaw",878
+"1008","Towers of Midnight","Ch12: An Empty Ink Bottle","Cadsuane Melaidhrin",898
+"1009","Towers of Midnight","Ch13: For What Has Been Wrought","Min Farshaw",3029
+"1010","Towers of Midnight","Ch14: A Vow","Egwene al'Vere",5749
+"1011","Towers of Midnight","Ch15: Use a Pebble","Nynaeve al'Meara",3917
+"1012","Towers of Midnight","Ch15: Use a Pebble","Egwene al'Vere",1987
+"1013","Towers of Midnight","Ch16: Shanna'har","Faile Bashere",1967
+"1014","Towers of Midnight","Ch16: Shanna'har","Perrin Aybara",3922
+"1015","Towers of Midnight","Ch17: Partings, and a Meeting","Matrim Cauthon",3818
+"1016","Towers of Midnight","Ch17: Partings, and a Meeting","Elayne Trakand",2934
+"1017","Towers of Midnight","Ch18: The Strength of This Place","Perrin Aybara",2407
+"1018","Towers of Midnight","Ch18: The Strength of This Place","Rodel Ituralde",2266
+"1019","Towers of Midnight","Ch18: The Strength of This Place","Faile Bashere",2528
+"1020","Towers of Midnight","Ch19: Talk of Dragons","Matrim Cauthon",7209
+"1021","Towers of Midnight","Ch20: A Choice","Nynaeve al'Meara",8030
+"1022","Towers of Midnight","Ch21: An Open Gate","Perrin Aybara",3108
+"1023","Towers of Midnight","Ch21: An Open Gate","Rodel Ituralde",2736
+"1024","Towers of Midnight","Ch21: An Open Gate","Morgase Trakand",1228
+"1025","Towers of Midnight","Ch22: The End of a Legend","Gawyn Trakand",3335
+"1026","Towers of Midnight","Ch22: The End of a Legend","Matrim Cauthon",4242
+"1027","Towers of Midnight","Ch22: The End of a Legend","Birgitte Silverbow",3992
+"1028","Towers of Midnight","Ch23: Foxheads","Elayne Trakand",5951
+"1029","Towers of Midnight","Ch23: Foxheads","Gawyn Trakand",1207
+"1030","Towers of Midnight","Ch23: Foxheads","Lan Mandragoran",755
+"1031","Towers of Midnight","Ch24: To Make a Stand","Elayne Trakand",1488
+"1032","Towers of Midnight","Ch24: To Make a Stand","Rodel Ituralde",1402
+"1033","Towers of Midnight","Ch24: To Make a Stand","Perrin Aybara",4625
+"1034","Towers of Midnight","Ch25: Return to Bandar Eban","Min Farshaw",3676
+"1035","Towers of Midnight","Ch26: Parley","Perrin Aybara",2175
+"1036","Towers of Midnight","Ch26: Parley","Galadedrid Damodred",3517
+"1037","Towers of Midnight","Ch27: A Call to Stand","Egwene al'Vere",4279
+"1038","Towers of Midnight","Ch28: Oddities","Faile Bashere",556
+"1039","Towers of Midnight","Ch28: Oddities","Perrin Aybara",1673
+"1040","Towers of Midnight","Ch28: Oddities","Rodel Ituralde",3655
+"1041","Towers of Midnight","Ch29: A Terrible Feeling","Faile Bashere",2027
+"1042","Towers of Midnight","Ch29: A Terrible Feeling","Morgase Trakand",1805
+"1043","Towers of Midnight","Ch29: A Terrible Feeling","Perrin Aybara",709
+"1044","Towers of Midnight","Ch29: A Terrible Feeling","Elayne Trakand",2428
+"1045","Towers of Midnight","Ch30: Men Dream Here","Faile Bashere",848
+"1046","Towers of Midnight","Ch30: Men Dream Here","Perrin Aybara",4539
+"1047","Towers of Midnight","Ch31: Into the Void","Matrim Cauthon",4366
+"1048","Towers of Midnight","Ch32: A Storm of Light","Rodel Ituralde",4201
+"1049","Towers of Midnight","Ch32: A Storm of Light","Min Farshaw",1618
+"1050","Towers of Midnight","Ch33: A Good Soup","Siuan Sanche",1217
+"1051","Towers of Midnight","Ch33: A Good Soup","Perrin Aybara",969
+"1052","Towers of Midnight","Ch33: A Good Soup","Gawyn Trakand",5078
+"1053","Towers of Midnight","Ch34: Judgment","Perrin Aybara",1273
+"1054","Towers of Midnight","Ch34: Judgment","Faile Bashere",1641
+"1055","Towers of Midnight","Ch34: Judgment","Perrin Aybara",3902
+"1056","Towers of Midnight","Ch35: The Right Thing","Egwene al'Vere",373
+"1057","Towers of Midnight","Ch35: The Right Thing","Perrin Aybara",1120
+"1058","Towers of Midnight","Ch35: The Right Thing","Galadedrid Damodred",527
+"1059","Towers of Midnight","Ch35: The Right Thing","Perrin Aybara",2255
+"1060","Towers of Midnight","Ch36: An Invitation","Egwene al'Vere",4643
+"1061","Towers of Midnight","Ch36: An Invitation","Perrin Aybara",401
+"1062","Towers of Midnight","Ch37: Darkness in the Tower","Gawyn Trakand",843
+"1063","Towers of Midnight","Ch37: Darkness in the Tower","Egwene al'Vere",577
+"1064","Towers of Midnight","Ch37: Darkness in the Tower","Perrin Aybara",443
+"1065","Towers of Midnight","Ch37: Darkness in the Tower","Gawyn Trakand",878
+"1066","Towers of Midnight","Ch37: Darkness in the Tower","Perrin Aybara",544
+"1067","Towers of Midnight","Ch37: Darkness in the Tower","Egwene al'Vere",965
+"1068","Towers of Midnight","Ch37: Darkness in the Tower","Perrin Aybara",672
+"1069","Towers of Midnight","Ch37: Darkness in the Tower","Gawyn Trakand",652
+"1070","Towers of Midnight","Ch37: Darkness in the Tower","Mesaana",351
+"1071","Towers of Midnight","Ch37: Darkness in the Tower","Perrin Aybara",670
+"1072","Towers of Midnight","Ch38: Wounds","Egwene al'Vere",2628
+"1073","Towers of Midnight","Ch38: Wounds","Perrin Aybara",1171
+"1074","Towers of Midnight","Ch38: Wounds","Egwene al'Vere",571
+"1075","Towers of Midnight","Ch38: Wounds","Perrin Aybara",850
+"1076","Towers of Midnight","Ch38: Wounds","Graendal",260
+"1077","Towers of Midnight","Ch39: In the Three-fold Land","Aviendha",2329
+"1078","Towers of Midnight","Ch40: A Making","Perrin Aybara",3562
+"1079","Towers of Midnight","Ch40: A Making","Faile Bashere",1111
+"1080","Towers of Midnight","Ch40: A Making","Perrin Aybara",714
+"1081","Towers of Midnight","Ch40: A Making","Galadedrid Damodred",631
+"1082","Towers of Midnight","Ch40: A Making","Perrin Aybara",880
+"1083","Towers of Midnight","Ch41: An Unexpected Ally","Galadedrid Damodred",571
+"1084","Towers of Midnight","Ch41: An Unexpected Ally","Perrin Aybara",886
+"1085","Towers of Midnight","Ch41: An Unexpected Ally","Galadedrid Damodred",762
+"1086","Towers of Midnight","Ch41: An Unexpected Ally","Perrin Aybara",982
+"1087","Towers of Midnight","Ch41: An Unexpected Ally","Galadedrid Damodred",1551
+"1088","Towers of Midnight","Ch42: Stronger than Blood","Gawyn Trakand",1236
+"1089","Towers of Midnight","Ch42: Stronger than Blood","Lan Mandragoran",1386
+"1090","Towers of Midnight","Ch43: Some Tea","Galadedrid Damodred",1447
+"1091","Towers of Midnight","Ch43: Some Tea","Alliandre Maritha Kigarin",1480
+"1092","Towers of Midnight","Ch44: A Backhanded Request","Morgase Trakand",1676
+"1093","Towers of Midnight","Ch44: A Backhanded Request","Perrin Aybara",2613
+"1094","Towers of Midnight","Ch45: A Reunion","Elayne Trakand",3977
+"1095","Towers of Midnight","Ch45: A Reunion","Aviendha",967
+"1096","Towers of Midnight","Ch46: Working Leather","Androl Genhald",6010
+"1097","Towers of Midnight","Ch47: A Teaching Chamber","Faile Bashere",4114
+"1098","Towers of Midnight","Ch47: A Teaching Chamber","Tuon Athaem Kore Paendrag",2110
+"1099","Towers of Midnight","Ch47: A Teaching Chamber","Perrin Aybara",1725
+"1100","Towers of Midnight","Ch48: Near Avendesora","Aviendha",4566
+"1101","Towers of Midnight","Ch49: Court of the Sun","Aviendha",4938
+"1102","Towers of Midnight","Ch50: Choosing Enemies","Elayne Trakand",3311
+"1103","Towers of Midnight","Ch51: A Testing","Min Farshaw",3123
+"1104","Towers of Midnight","Ch51: A Testing","Cadsuane Melaidhrin",1040
+"1105","Towers of Midnight","Ch52: Boots","Elayne Trakand",2952
+"1106","Towers of Midnight","Ch52: Boots","Matrim Cauthon",2822
+"1107","Towers of Midnight","Ch53: Gateways","Pevara Tazanovni",1855
+"1108","Towers of Midnight","Ch53: Gateways","Perrin Aybara",2155
+"1109","Towers of Midnight","Ch53: Gateways","Matrim Cauthon",4417
+"1110","Towers of Midnight","Ch54: The Light of the World","Matrim Cauthon",5406
+"1111","Towers of Midnight","Ch55: The One Left Behind","Matrim Cauthon",3330
+"1112","Towers of Midnight","Ch56: Something Wrong","Egwene al'Vere",1233
+"1113","Towers of Midnight","Ch56: Something Wrong","Androl Genhald",1423
+"1114","Towers of Midnight","Ch57: A Rabbit for Supper","Matrim Cauthon",2986
+"1115","Towers of Midnight","Epilogue: And After","Graendal",564
+"1116","Towers of Midnight","Epilogue: And After","Perrin Aybara",1433
+"1117","Towers of Midnight","Epilogue: And After","Olver",1663
+"1118","Towers of Midnight","Epilogue: And After","Barriga",456
+"1119","Towers of Midnight","Epilogue: And After","Rand al'Thor",925
+"1120","Towers of Midnight","Epilogue: And After","Lan Mandragoran",475
+"1121","Towers of Midnight","Epilogue: And After","Quote",245
+"1122","A Memory of Light","Prologue: By Grace and Banners Fallen","Quote",87
+"1123","A Memory of Light","Prologue: By Grace and Banners Fallen","Bayrd",2733
+"1124","A Memory of Light","Prologue: By Grace and Banners Fallen","Talmanes",876
+"1125","A Memory of Light","Prologue: By Grace and Banners Fallen","Isam",2599
+"1126","A Memory of Light","Prologue: By Grace and Banners Fallen","Talmanes",1197
+"1127","A Memory of Light","Prologue: By Grace and Banners Fallen","Leilwin Shipless",3133
+"1128","A Memory of Light","Prologue: By Grace and Banners Fallen","Talmanes",1107
+"1129","A Memory of Light","Prologue: By Grace and Banners Fallen","Aviendha",2443
+"1130","A Memory of Light","Prologue: By Grace and Banners Fallen","Talmanes",1673
+"1131","A Memory of Light","Prologue: By Grace and Banners Fallen","Androl Genhald",3174
+"1132","A Memory of Light","Prologue: By Grace and Banners Fallen","Talmanes",2311
+"1133","A Memory of Light","Prologue: By Grace and Banners Fallen","Moghedien",2499
+"1134","A Memory of Light","Prologue: By Grace and Banners Fallen","Talmanes",1294
+"1135","A Memory of Light","Ch1: Eastward the Wind Blew","Rand al'Thor",2931
+"1136","A Memory of Light","Ch1: Eastward the Wind Blew","Egwene al'Vere",2733
+"1137","A Memory of Light","Ch1: Eastward the Wind Blew","Rand al'Thor",2503
+"1138","A Memory of Light","Ch2: The Choice of an Ajah","Pevara",3963
+"1139","A Memory of Light","Ch2: The Choice of an Ajah","Aviendha",2975
+"1140","A Memory of Light","Ch3: A Dangerous Place","Androl Genhald",2470
+"1141","A Memory of Light","Ch3: A Dangerous Place","Rand al'Thor",1470
+"1142","A Memory of Light","Ch3: A Dangerous Place","Pevara",2344
+"1143","A Memory of Light","Ch4: Advantages to a Bond","Androl Genhald",2564
+"1144","A Memory of Light","Ch4: Advantages to a Bond","Rand al'Thor",1467
+"1145","A Memory of Light","Ch4: Advantages to a Bond","Pevara",2240
+"1146","A Memory of Light","Ch5: To Require a Boon","Rand al'Thor",1412
+"1147","A Memory of Light","Ch5: To Require a Boon","Egwene al'Vere",8450
+"1148","A Memory of Light","Ch6: A Knack","Perrin Aybara",5145
+"1149","A Memory of Light","Ch6: A Knack","Lan Mandragoran",2167
+"1150","A Memory of Light","Ch7: Into the Thick of It","Elayne Trakand",2667
+"1151","A Memory of Light","Ch7: Into the Thick of It","Lan Mandragoran",3217
+"1152","A Memory of Light","Ch8: That Smoldering City","Elayne Trakand",2143
+"1153","A Memory of Light","Ch8: That Smoldering City","Androl Genhald",2141
+"1154","A Memory of Light","Ch9: To Die Well","Lan Mandragoran",2189
+"1155","A Memory of Light","Ch9: To Die Well","Egwene al'Vere",1858
+"1156","A Memory of Light","Ch9: To Die Well","Rand al'Thor",2729
+"1157","A Memory of Light","Ch10: The Use of Dragons","Perrin Aybara",236
+"1158","A Memory of Light","Ch10: The Use of Dragons","Elayne Trakand",1630
+"1159","A Memory of Light","Ch10: The Use of Dragons","Androl Genhald",491
+"1160","A Memory of Light","Ch10: The Use of Dragons","Lan Mandragoran",513
+"1161","A Memory of Light","Ch10: The Use of Dragons","Elayne Trakand",1962
+"1162","A Memory of Light","Ch11: Just Another Sell-sword","Egwene al'Vere",1552
+"1163","A Memory of Light","Ch11: Just Another Sell-sword","Matrim Cauthon",3711
+"1164","A Memory of Light","Ch11: Just Another Sell-sword","Rand al'Thor",2160
+"1165","A Memory of Light","Ch12: A Shard of a Moment","Birgitte",1054
+"1166","A Memory of Light","Ch12: A Shard of a Moment","Rand al'Thor",2284
+"1167","A Memory of Light","Ch12: A Shard of a Moment","Perrin Aybara",687
+"1168","A Memory of Light","Ch13: What Must Be Done","Egwene al'Vere",1568
+"1169","A Memory of Light","Ch13: What Must Be Done","Elayne Trakand",1024
+"1170","A Memory of Light","Ch13: What Must Be Done","Perrin Aybara",2348
+"1171","A Memory of Light","Ch14: Doses of Forkroot","Perrin Aybara",2017
+"1172","A Memory of Light","Ch14: Doses of Forkroot","Androl Genhald",2055
+"1173","A Memory of Light","Ch14: Doses of Forkroot","Perrin Aybara",1984
+"1174","A Memory of Light","Ch14: Doses of Forkroot","Androl Genhald",504
+"1175","A Memory of Light","Ch15: Your Neck in a Cord","Matrim Cauthon",2463
+"1176","A Memory of Light","Ch15: Your Neck in a Cord","Rand al'Thor",3016
+"1177","A Memory of Light","Ch15: Your Neck in a Cord","Matrim Cauthon",2504
+"1178","A Memory of Light","Ch16: A Silence Like Screaming","Loial",863
+"1179","A Memory of Light","Ch16: A Silence Like Screaming","Galad Damodred",511
+"1180","A Memory of Light","Ch16: A Silence Like Screaming","Rand al'Thor",1471
+"1181","A Memory of Light","Ch16: A Silence Like Screaming","Moiraine Damodred",180
+"1182","A Memory of Light","Ch16: A Silence Like Screaming","Lan Mandragoran",3004
+"1183","A Memory of Light","17, Ch17: Older, More Weathered","Matrim Cauthon",3614
+"1184","A Memory of Light","Ch18: To Feel Wasted","Gawyn Trakand",3488
+"1185","A Memory of Light","Ch18: To Feel Wasted","Lan Mandragoran",2063
+"1186","A Memory of Light","Ch18: To Feel Wasted","Rand al'Thor",1859
+"1187","A Memory of Light","Ch19: The Choice of a Patch","Elayne Trakand",1982
+"1188","A Memory of Light","Ch19: The Choice of a Patch","Egwene al'Vere",1511
+"1189","A Memory of Light","Ch19: The Choice of a Patch","Matrim Cauthon",1748
+"1190","A Memory of Light","Ch20: Into Thankan'dar","Egwene al'Vere",2571
+"1191","A Memory of Light","Ch20: Into Thankan'dar","Aviendha",3559
+"1192","A Memory of Light","Ch21: Not a Mistake to Ignore","Siuan Sanche",1514
+"1193","A Memory of Light","Ch21: Not a Mistake to Ignore","Lyrelle",2139
+"1194","A Memory of Light","Ch21: Not a Mistake to Ignore","Pevara",574
+"1195","A Memory of Light","Ch22: The Wyld","Egwene al'Vere",2260
+"1196","A Memory of Light","Ch22: The Wyld","Perrin Aybara",2586
+"1197","A Memory of Light","Ch23: At the Edge of Time","Gawyn Trakand",717
+"1198","A Memory of Light","Ch23: At the Edge of Time","Egwene al'Vere",2020
+"1199","A Memory of Light","Ch23: At the Edge of Time","Aviendha",2745
+"1200","A Memory of Light","Ch23: At the Edge of Time","Rand al'Thor",1091
+"1201","A Memory of Light","Ch24: To Ignore the Omens","Fortuona",2549
+"1202","A Memory of Light","Ch24: To Ignore the Omens","Lan Mandragoran",748
+"1203","A Memory of Light","Ch24: To Ignore the Omens","Elayne Trakand",1995
+"1204","A Memory of Light","Ch24: To Ignore the Omens","Rodel Ituralde",2348
+"1205","A Memory of Light","Ch25: Quick Fragments","Siuan Sanche",745
+"1206","A Memory of Light","Ch25: Quick Fragments","Rand al'Thor",827
+"1207","A Memory of Light","Ch25: Quick Fragments","Lan Mandragoran",931
+"1208","A Memory of Light","Ch25: Quick Fragments","Perrin Aybara",4201
+"1209","A Memory of Light","Ch26: Considerations","Egwene al'Vere",3640
+"1210","A Memory of Light","Ch26: Considerations","Elayne Trakand",2173
+"1211","A Memory of Light","Ch27: Friendly Fire","Gareth Bryne",2686
+"1212","A Memory of Light","Ch27: Friendly Fire","Min Farshaw",3156
+"1213","A Memory of Light","Ch28: Too Many Men","Lan Mandragoran",1877
+"1214","A Memory of Light","Ch28: Too Many Men","Loial",500
+"1215","A Memory of Light","Ch28: Too Many Men","Matrim Cauthon",1553
+"1216","A Memory of Light","Ch29: The Loss of a Hill","Egwene al'Vere",913
+"1217","A Memory of Light","Ch29: The Loss of a Hill","Lan Mandragoran",1580
+"1218","A Memory of Light","Ch29: The Loss of a Hill","Matrim Cauthon",4083
+"1219","A Memory of Light","Ch30: The Way of the Predator","Perrin Aybara",1834
+"1220","A Memory of Light","Ch30: The Way of the Predator","Rand al'Thor",1630
+"1221","A Memory of Light","Ch30: The Way of the Predator","Elayne Trakand",2442
+"1222","A Memory of Light","Ch31: A Tempest of Water","Egwene al'Vere",1221
+"1223","A Memory of Light","Ch31: A Tempest of Water","Rodel Ituralde",1527
+"1224","A Memory of Light","Ch31: A Tempest of Water","Egwene al'Vere",2367
+"1225","A Memory of Light","Ch32: A Yellow Flower-Spider","Matrim Cauthon",4300
+"1226","A Memory of Light","Ch32: A Yellow Flower-Spider","Galad Damodred",1339
+"1227","A Memory of Light","Ch33: The Prince's Tabac","Perrin Aybara",1929
+"1228","A Memory of Light","Ch33: The Prince's Tabac","Faile",3443
+"1229","A Memory of Light","Ch33: The Prince's Tabac","Aviendha",4005
+"1230","A Memory of Light","Ch34: Drifting","Rand al'Thor",335
+"1231","A Memory of Light","Ch34: Drifting","Perrin Aybara",573
+"1232","A Memory of Light","Ch34: Drifting","Faile",1846
+"1233","A Memory of Light","Ch34: Drifting","Aviendha",1175
+"1234","A Memory of Light","Ch35: A Practiced Grin","Olver",1882
+"1235","A Memory of Light","Ch35: A Practiced Grin","Cadsuane Melaidhrin",766
+"1236","A Memory of Light","Ch35: A Practiced Grin","Faile",1411
+"1237","A Memory of Light","Ch36: Unchangeable Things","Nynaeve al'Meara",893
+"1238","A Memory of Light","Ch36: Unchangeable Things","Matrim Cauthon",3514
+"1239","A Memory of Light","Ch36: Unchangeable Things","Perrin Aybara",294
+"1240","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Lan Mandragoran",663
+"1241","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Elayne Trakand",2017
+"1242","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Uno Nomesta",2062
+"1243","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Logain Ablar",1147
+"1244","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Gawyn Trakand",852
+"1245","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Tam al'Thor",1414
+"1246","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Pevara",1621
+"1247","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Matrim Cauthon",2533
+"1248","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Galad Damodred",1042
+"1249","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",2691
+"1250","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Egwene al'Vere",1177
+"1251","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Gawyn Trakand",2931
+"1252","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Faile",1059
+"1253","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Perrin Aybara",1251
+"1254","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Androl Genhald",1357
+"1255","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rhuarc",1423
+"1256","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",1212
+"1257","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Silviana Brehon",2455
+"1258","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Elayne Trakand",1418
+"1259","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Matrim Cauthon",1352
+"1260","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Min Farshaw",1352
+"1261","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Egwene al'Vere",171
+"1262","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Demandred",2082
+"1263","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",294
+"1264","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Juilin Sandar",647
+"1265","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Pevara",2021
+"1266","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Galad Damodred",1460
+"1267","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Egwene al'Vere",251
+"1268","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Tam al'Thor",792
+"1269","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Fortuona",996
+"1270","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",1864
+"1271","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Matrim Cauthon",610
+"1272","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Tam al'Thor",1569
+"1273","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Elayne Trakand",915
+"1274","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Galad Damodred",574
+"1275","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Nynaeve al'Meara",202
+"1276","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Matrim Cauthon",2414
+"1277","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Egwene al'Vere",1025
+"1278","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Galad Damodred",563
+"1279","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Androl Genhald",993
+"1280","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Gerard Arganda",2340
+"1281","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",1976
+"1282","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Matrim Cauthon",602
+"1283","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Olver",2943
+"1284","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Leane Sharif",837
+"1285","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Talmanes",837
+"1286","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Faile",1389
+"1287","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Logain Ablar",796
+"1288","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Egwene al'Vere",683
+"1289","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Ila",861
+"1290","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Olver",845
+"1291","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Logain Ablar",928
+"1292","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Egwene al'Vere",816
+"1293","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Hurin",561
+"1294","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Berelain",1526
+"1295","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",506
+"1296","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Mazrim Taim",1134
+"1297","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Elayne Trakand",1218
+"1298","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",300
+"1299","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Min Farshaw",1773
+"1300","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Egwene al'Vere",1746
+"1301","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",124
+"1302","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Leane Sharif",178
+"1303","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Berelain",214
+"1304","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Matrim Cauthon",1235
+"1305","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Olver",69
+"1306","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Loial",426
+"1307","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Tam al'Thor",260
+"1308","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Lan Mandragoran",628
+"1309","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Min Farshaw",111
+"1310","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Rand al'Thor",60
+"1311","A Memory of Light","Ch37: The Last Battle *There is an issue with repeating Names in this chapter. But then again this chapter was over 200 pages in length!!","Lan Mandragoran",811
+"1312","A Memory of Light","Ch38: The Place That Was Not","Rand al'Thor",539
+"1313","A Memory of Light","Ch38: The Place That Was Not","Shendla",65
+"1314","A Memory of Light","Ch38: The Place That Was Not","Rand al'Thor",449
+"1315","A Memory of Light","Ch38: The Place That Was Not","Loial",145
+"1316","A Memory of Light","Ch39: Those Who Fight","Rand al'Thor",513
+"1317","A Memory of Light","Ch39: Those Who Fight","Matrim Cauthon",141
+"1318","A Memory of Light","Ch39: Those Who Fight","Rand al'Thor",21
+"1319","A Memory of Light","Ch39: Those Who Fight","Matrim Cauthon",101
+"1320","A Memory of Light","Ch39: Those Who Fight","Rand al'Thor",40
+"1321","A Memory of Light","Ch39: Those Who Fight","Olver",48
+"1322","A Memory of Light","Ch39: Those Who Fight","Matrim Cauthon",159
+"1323","A Memory of Light","Ch39: Those Who Fight","Elayne Trakand",361
+"1324","A Memory of Light","Ch39: Those Who Fight","Matrim Cauthon",1368
+"1325","A Memory of Light","Ch39: Those Who Fight","Olver",312
+"1326","A Memory of Light","Ch40: Wolfbrother","Elayne Trakand",435
+"1327","A Memory of Light","Ch40: Wolfbrother","Aviendha",1304
+"1328","A Memory of Light","Ch40: Wolfbrother","Elayne Trakand",560
+"1329","A Memory of Light","Ch40: Wolfbrother","Matrim Cauthon",721
+"1330","A Memory of Light","Ch40: Wolfbrother","Jur Grady",833
+"1331","A Memory of Light","Ch41: A Smile","Pevara",638
+"1332","A Memory of Light","Ch41: A Smile","Moghedien",1034
+"1333","A Memory of Light","Ch41: A Smile","Talmanes",304
+"1334","A Memory of Light","Ch42: Impossibilities","Aviendha",1087
+"1335","A Memory of Light","Ch42: Impossibilities","Atal Mishraile",1423
+"1336","A Memory of Light","Ch42: Impossibilities","Pevara",367
+"1337","A Memory of Light","Ch42: Impossibilities","Aviendha",560
+"1338","A Memory of Light","Ch43: A Field of Glass","Logain Ablar",862
+"1339","A Memory of Light","Ch43: A Field of Glass","Matrim Cauthon",1287
+"1340","A Memory of Light","Ch43: A Field of Glass","Rand al'Thor",384
+"1341","A Memory of Light","Ch43: A Field of Glass","Aviendha",444
+"1342","A Memory of Light","Ch44: Two Craftsmen","Perrin Aybara",2634
+"1343","A Memory of Light","Ch44: Two Craftsmen","Thom Merrilin",1632
+"1344","A Memory of Light","Ch45: Tendrils of Mist","Matrim Cauthon",427
+"1345","A Memory of Light","Ch45: Tendrils of Mist","Shaisam",587
+"1346","A Memory of Light","Ch45: Tendrils of Mist","Gaul",920
+"1347","A Memory of Light","Ch45: Tendrils of Mist","Matrim Cauthon",1120
+"1348","A Memory of Light","Ch46: To Awaken","Rand al'Thor",143
+"1349","A Memory of Light","Ch46: To Awaken","Nynaeve al'Meara",256
+"1350","A Memory of Light","Ch46: To Awaken","Perrin Aybara",1950
+"1351","A Memory of Light","Ch46: To Awaken","Matrim Cauthon",483
+"1352","A Memory of Light","Ch47: Watching the Flow Writhe","Aviendha",425
+"1353","A Memory of Light","Ch47: Watching the Flow Writhe","Shaisam",173
+"1354","A Memory of Light","Ch47: Watching the Flow Writhe","Perrin Aybara",422
+"1355","A Memory of Light","Ch47: Watching the Flow Writhe","Rand al'Thor",512
+"1356","A Memory of Light","Ch48: A Brilliant Lance","Elayne Trakand",150
+"1357","A Memory of Light","Ch48: A Brilliant Lance","Thom Merrilin",61
+"1358","A Memory of Light","Ch48: A Brilliant Lance","Min Farshaw",85
+"1359","A Memory of Light","Ch48: A Brilliant Lance","Aviendha",155
+"1360","A Memory of Light","Ch48: A Brilliant Lance","Logain Ablar",356
+"1361","A Memory of Light","Ch49: Light and Shadow","Perrin Aybara",1074
+"1362","A Memory of Light","Ch49: Light and Shadow","Rand al'Thor",421
+"1363","A Memory of Light","Ch49: Light and Shadow","Moiraine Damodred",162
+"1364","A Memory of Light","Epiloque: To See the Answer","Rand al'Thor",184
+"1365","A Memory of Light","Epiloque: To See the Answer","Matrim Cauthon",182
+"1366","A Memory of Light","Epiloque: To See the Answer","Perrin Aybara",1025
+"1367","A Memory of Light","Epiloque: To See the Answer","Loial",872
+"1368","A Memory of Light","Epiloque: To See the Answer","Matrim Cauthon",372
+"1369","A Memory of Light","Epiloque: To See the Answer","Perrin Aybara",167
+"1370","A Memory of Light","Epiloque: To See the Answer","Moghedien",413
+"1371","A Memory of Light","Epiloque: To See the Answer","Nynaeve al'Meara",472
+"1372","A Memory of Light","Epiloque: To See the Answer","Perrin Aybara",633
+"1373","A Memory of Light","Epiloque: To See the Answer","Birgitte",357
+"1374","A Memory of Light","Epiloque: To See the Answer","Tam al'Thor",262
+"1375","A Memory of Light","Epiloque: To See the Answer","Min Farshaw",615
+"1376","A Memory of Light","Epiloque: To See the Answer","Rand al'Thor",708
+"1377","A Memory of Light","Epiloque: To See the Answer","Cadsuane Melaidhrin",180
+"1378","A Memory of Light","Epiloque: To See the Answer","Rand al'Thor",708
+"1379","A Memory of Light","Epiloque: To See the Answer","Quote",182
